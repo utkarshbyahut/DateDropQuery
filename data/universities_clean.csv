@@ -1,0 +1,2396 @@
+name,country,domain,email_example
+Marywood University,United States,marywood.edu,abc@marywood.edu
+Lindenwood University,United States,lindenwood.edu,abc@lindenwood.edu
+Sullivan University,United States,sullivan.edu,abc@sullivan.edu
+Florida State College at Jacksonville,United States,fscj.edu,abc@fscj.edu
+Xavier University,United States,xavier.edu,abc@xavier.edu
+Tusculum College,United States,tusculum.edu,abc@tusculum.edu
+Claremont School of Theology,United States,cst.edu,abc@cst.edu
+Columbia College (SC),United States,columbiasc.edu,abc@columbiasc.edu
+Chabot-Las Positas Community College District,United States,clpccd.edu,abc@clpccd.edu
+Keller Graduate School of Management,United States,keller.edu,abc@keller.edu
+Monroe College,United States,monroecollege.edu,abc@monroecollege.edu
+San Mateo County Community College District,United States,smccd.edu,abc@smccd.edu
+Los Rios Community College District,United States,losrios.edu,abc@losrios.edu
+DigiPen Institute of Technology,United States,digipen.edu,abc@digipen.edu
+University of Pittsburgh Medical Center,United States,upmc.edu,abc@upmc.edu
+University of Pittsburgh Medical Center,United States,upmc.com,abc@upmc.com
+Claremont Graduate University,United States,cgu.edu,abc@cgu.edu
+The University of Texas at Rio Grande Valley,United States,utrgv.edu,abc@utrgv.edu
+College of Mount Saint Vincent,United States,mountsaintvincent.edu,abc@mountsaintvincent.edu
+University of Arkansas System eVersity,United States,uasys.edu,abc@uasys.edu
+ECPI University,United States,ecpi.edu,abc@ecpi.edu
+University of Mary Washington,United States,umw.edu,abc@umw.edu
+Baldwin Wallace University,United States,bw.edu,abc@bw.edu
+California State University Channel Islands,United States,csuci.edu,abc@csuci.edu
+Brandman University,United States,brandman.edu,abc@brandman.edu
+United States Coast Guard Academy,United States,uscga.edu,abc@uscga.edu
+Athens State University,United States,athens.edu,abc@athens.edu
+The Scripps Research Institute,United States,scripps.edu,abc@scripps.edu
+Eastern Florida State College,United States,easternflorida.edu,abc@easternflorida.edu
+Western New England University,United States,wne.edu,abc@wne.edu
+King University,United States,king.edu,abc@king.edu
+Georgia Gwinnett College,United States,ggc.edu,abc@ggc.edu
+Trident University,United States,trident.edu,abc@trident.edu
+Alliant International University,United States,alliant.edu,abc@alliant.edu
+Mississippi Valley State University,United States,mvsu.edu,abc@mvsu.edu
+Roosevelt University,United States,roosevelt.edu,abc@roosevelt.edu
+ITT Technical Institute,United States,itt-tech.info,abc@itt-tech.info
+ITT Technical Institute,United States,itt-tech.edu,abc@itt-tech.edu
+Illinois Eastern Community Colleges,United States,iecc.edu,abc@iecc.edu
+Park University,United States,park.edu,abc@park.edu
+Icahn School of Medicine at Mount Sinai,United States,mssm.edu,abc@mssm.edu
+Utah Valley University,United States,uvu.edu,abc@uvu.edu
+Wisconsin Lutheran College,United States,wlc.edu,abc@wlc.edu
+Riverside Community College District,United States,rccd.edu,abc@rccd.edu
+Wake Forest Baptist Health,United States,wakehealth.edu,abc@wakehealth.edu
+University of Massachusetts Boston,United States,umb.edu,abc@umb.edu
+Florida Polytechnic University,United States,floridapoly.edu,abc@floridapoly.edu
+Wagner College,United States,wagner.edu,abc@wagner.edu
+Wilmington University,United States,wilmu.edu,abc@wilmu.edu
+International Technological University,United States,itu.edu,abc@itu.edu
+Young Harris College,United States,yhc.edu,abc@yhc.edu
+University of Findlay,United States,findlay.edu,abc@findlay.edu
+Philadelphia College of Osteopathic Medicine,United States,pcom.edu,abc@pcom.edu
+Yosemite Community College District,United States,yosemite.edu,abc@yosemite.edu
+Coastal Alabama Community College,United States,coastalalabama.edu,abc@coastalalabama.edu
+Purdue University Northwest,United States,pnw.edu,abc@pnw.edu
+Columbia Basin College,United States,columbiabasin.edu,abc@columbiabasin.edu
+Seattle Colleges,United States,seattlecolleges.edu,abc@seattlecolleges.edu
+Lipscomb University,United States,lipscomb.edu,abc@lipscomb.edu
+Tiffin University,United States,tiffin.edu,abc@tiffin.edu
+Troy University,United States,troy.edu,abc@troy.edu
+42 US,United States,student.42.us.org,abc@student.42.us.org
+California Baptist University,United States,calbaptist.edu,abc@calbaptist.edu
+Stevenson University,United States,stevenson.edu,abc@stevenson.edu
+Marine Biological Laboratory,United States,mbl.edu,abc@mbl.edu
+Maryville University,United States,maryville.edu,abc@maryville.edu
+The Art Institutes,United States,aii.edu,abc@aii.edu
+University of Mississippi Medical Center,United States,umc.edu,abc@umc.edu
+University of Central Oklahoma,United States,uco.edu,abc@uco.edu
+Hallmark University,United States,hallmarkuniversity.edu,abc@hallmarkuniversity.edu
+Keiser University,United States,keiseruniversity.edu,abc@keiseruniversity.edu
+St. Johns River State College,United States,sjrstate.edu,abc@sjrstate.edu
+Indian River State College,United States,irsc.edu,abc@irsc.edu
+Barnard College,United States,barnard.edu,abc@barnard.edu
+California Southern University,United States,calsouthern.edu,abc@calsouthern.edu
+University of La Verne,United States,laverne.edu,abc@laverne.edu
+Washington & Jefferson College,United States,washjeff.edu,abc@washjeff.edu
+University of the People,United States,uopeople.edu,abc@uopeople.edu
+Touro College,United States,touro.edu,abc@touro.edu
+New Jersey City University,United States,njcu.edu,abc@njcu.edu
+Lander University,United States,lander.edu,abc@lander.edu
+SUNY Maritime College,United States,sunymaritime.edu,abc@sunymaritime.edu
+Lesley University,United States,lesley.edu,abc@lesley.edu
+Laurus College,United States,lauruscollege.edu,abc@lauruscollege.edu
+National Park College,United States,np.edu,abc@np.edu
+Oklahoma Christian University,United States,oc.edu,abc@oc.edu
+San Diego Christian College,United States,sdcc.edu,abc@sdcc.edu
+SANS Technology Institute,United States,sans.edu,abc@sans.edu
+Pasco-Hernando State College,United States,phsc.edu,abc@phsc.edu
+New College of Florida,United States,ncf.edu,abc@ncf.edu
+Grand Canyon University,United States,gcu.edu,abc@gcu.edu
+Cold Spring Harbor Laboratory,United States,cshl.edu,abc@cshl.edu
+Albany State University,United States,asurams.edu,abc@asurams.edu
+Lasell College,United States,lasell.edu,abc@lasell.edu
+Contra Costa Community College District,United States,4cd.edu,abc@4cd.edu
+Mount St. Mary's University,United States,msmary.edu,abc@msmary.edu
+Robert Morris University Illinois,United States,robertmorris.edu,abc@robertmorris.edu
+Northwest Florida State College,United States,nwfsc.edu,abc@nwfsc.edu
+West Virginia Wesleyan College,United States,wvwc.edu,abc@wvwc.edu
+Utica College,United States,utica.edu,abc@utica.edu
+Career College of Northern Nevada,United States,ccnn.edu,abc@ccnn.edu
+College of Southern Nevada,United States,csn.edu,abc@csn.edu
+University of North Georgia,United States,ung.edu,abc@ung.edu
+The Principia,United States,principia.edu,abc@principia.edu
+Lynn University,United States,lynn.edu,abc@lynn.edu
+Colorado Community College System,United States,cccs.edu,abc@cccs.edu
+Valencia College,United States,valenciacollege.edu,abc@valenciacollege.edu
+St. Petersburg College,United States,spcollege.edu,abc@spcollege.edu
+Globe University & Minnesota School of Business,United States,msbcollege.edu,abc@msbcollege.edu
+Everest College,United States,everest.edu,abc@everest.edu
+Southwest Research Institute,United States,swri.edu,abc@swri.edu
+American Public University System,United States,apus.edu,abc@apus.edu
+Full Sail University,United States,fullsail.edu,abc@fullsail.edu
+YTI Career Institute,United States,yti.edu,abc@yti.edu
+Defense Language Institute Foreign Language Center,United States,dliflc.edu,abc@dliflc.edu
+Columbus State University,United States,columbusstate.edu,abc@columbusstate.edu
+Morehead State University,United States,moreheadstate.edu,abc@moreheadstate.edu
+Colorado State University - Global Campus,United States,csuglobal.edu,abc@csuglobal.edu
+North Dakota University System,United States,ndus.edu,abc@ndus.edu
+University of Houston-Downtown,United States,uhd.edu,abc@uhd.edu
+Stratford University,United States,stratford.edu,abc@stratford.edu
+"California Polytechnic State University, Pomona",United States,cpp.edu,abc@cpp.edu
+Baker College,United States,baker.edu,abc@baker.edu
+The College of New Jersey,United States,tcnj.edu,abc@tcnj.edu
+Abilene Christian University,United States,acu.edu,abc@acu.edu
+Adelphi University,United States,adelphi.edu,abc@adelphi.edu
+Agnes Scott College,United States,agnesscott.edu,abc@agnesscott.edu
+Aiken Technical College,United States,atc.edu,abc@atc.edu
+Air Force Institute of Technology,United States,afit.edu,abc@afit.edu
+Alabama A&M University,United States,aamu.edu,abc@aamu.edu
+Alabama State University,United States,alasu.edu,abc@alasu.edu
+Alamo Colleges,United States,aloma.edu,abc@aloma.edu
+Albertson College of Idaho,United States,acofi.edu,abc@acofi.edu
+Albion College,United States,albion.edu,abc@albion.edu
+Alfred University,United States,alfred.edu,abc@alfred.edu
+Allegheny College,United States,alleg.edu,abc@alleg.edu
+Allentown College of Saint Francis de Sales,United States,allencol.edu,abc@allencol.edu
+Alma College,United States,alma.edu,abc@alma.edu
+Alverno College,United States,alverno.edu,abc@alverno.edu
+Ambassador University,United States,ambassador.edu,abc@ambassador.edu
+American Coastline University,United States,amercoastuniv.edu,abc@amercoastuniv.edu
+American International College,United States,aic.edu,abc@aic.edu
+American University,United States,american.edu,abc@american.edu
+Amherst College,United States,amherst.edu,abc@amherst.edu
+Andrews University,United States,andrews.edu,abc@andrews.edu
+Angelo State University,United States,angelo.edu,abc@angelo.edu
+Anne Arundel Community College,United States,aacc.edu,abc@aacc.edu
+Antioch New England,United States,antiochne.edu,abc@antiochne.edu
+Antioch University,United States,antioch.edu,abc@antioch.edu
+Antioch University - Los Angeles,United States,antiochla.edu,abc@antiochla.edu
+Antioch University - Seattle,United States,seattleantioch.edu,abc@seattleantioch.edu
+Appalachian State University,United States,appstate.edu,abc@appstate.edu
+Aquinas College,United States,aquinas.edu,abc@aquinas.edu
+Arcadia College,United States,arcadia.edu,abc@arcadia.edu
+Arizona State University,United States,asu.edu,abc@asu.edu
+Arizona Western College,United States,azwestern.edu,abc@azwestern.edu
+Arkansas State University,United States,astate.edu,abc@astate.edu
+Arkansas Tech University,United States,atu.edu,abc@atu.edu
+Armstrong State College,United States,armstrong.edu,abc@armstrong.edu
+Ashland University,United States,ashland.edu,abc@ashland.edu
+Assumption College,United States,assumption.edu,abc@assumption.edu
+Auburn University,United States,auburn.edu,abc@auburn.edu
+Auburn University at Montgomery,United States,aum.edu,abc@aum.edu
+Augsburg College,United States,augsburg.edu,abc@augsburg.edu
+Augustana College (IL),United States,augustana.edu,abc@augustana.edu
+Augustana College (SD),United States,augie.edu,abc@augie.edu
+Augusta University,United States,augusta.edu,abc@augusta.edu
+Augusta University,United States,gru.edu,abc@gru.edu
+Aurora University,United States,aurora.edu,abc@aurora.edu
+Austin College,United States,austincollege.edu,abc@austincollege.edu
+Austin Community College,United States,austincc.edu,abc@austincc.edu
+Austin Peay State University,United States,apsu.edu,abc@apsu.edu
+Averett College,United States,averett.edu,abc@averett.edu
+Avila College,United States,avila.edu,abc@avila.edu
+Azusa Pacific University,United States,apu.edu,abc@apu.edu
+Babson College,United States,babson.edu,abc@babson.edu
+Baker University,United States,bakeru.edu,abc@bakeru.edu
+Ball State University,United States,bsu.edu,abc@bsu.edu
+Baptist Bible College,United States,bbc.edu,abc@bbc.edu
+Bard College,United States,bard.edu,abc@bard.edu
+Barry University,United States,barry.edu,abc@barry.edu
+Bastyr University,United States,bastyr.edu,abc@bastyr.edu
+Bates College,United States,bates.edu,abc@bates.edu
+Baylor College of Medicine,United States,bcm.edu,abc@bcm.edu
+Baylor University,United States,baylor.edu,abc@baylor.edu
+Bellevue University,United States,bellevue.edu,abc@bellevue.edu
+Belmont University,United States,belmont.edu,abc@belmont.edu
+Beloit College,United States,beloit.edu,abc@beloit.edu
+Bemidji State University,United States,bemidjistate.edu,abc@bemidjistate.edu
+Benedictine College,United States,benedictine.edu,abc@benedictine.edu
+Bennington College,United States,bennington.edu,abc@bennington.edu
+Bentley University,United States,bentley.edu,abc@bentley.edu
+Berea College,United States,berea.edu,abc@berea.edu
+Berklee College of Music,United States,berklee.edu,abc@berklee.edu
+Bethany College,United States,bethanywv.edu,abc@bethanywv.edu
+Bethel College (KS),United States,bethelks.edu,abc@bethelks.edu
+Bethel University,United States,bethel.edu,abc@bethel.edu
+Biola University,United States,biola.edu,abc@biola.edu
+Birmingham-Southern College,United States,bsc.edu,abc@bsc.edu
+Black Hills State University,United States,bhsu.edu,abc@bhsu.edu
+Bloomsburg University of Pennsylvania,United States,bloomu.edu,abc@bloomu.edu
+Bluffton College,United States,bluffton.edu,abc@bluffton.edu
+Bob Jones University,United States,bju.edu,abc@bju.edu
+Boise State University,United States,boisestate.edu,abc@boisestate.edu
+Boston College,United States,bc.edu,abc@bc.edu
+Boston Graduate School of Psychoanalysis,United States,bgsp.edu,abc@bgsp.edu
+Boston University,United States,bu.edu,abc@bu.edu
+Bowdoin College,United States,bowdoin.edu,abc@bowdoin.edu
+Bowie State University,United States,bowiestate.edu,abc@bowiestate.edu
+Bowling Green State University,United States,bgsu.edu,abc@bgsu.edu
+Bradley University,United States,bradley.edu,abc@bradley.edu
+Brandeis University,United States,brandeis.edu,abc@brandeis.edu
+Brenau University,United States,brenau.edu,abc@brenau.edu
+Briar Cliff College,United States,briar-cliff.edu,abc@briar-cliff.edu
+Bridgewater College,United States,bridgewater.edu,abc@bridgewater.edu
+Brigham Young University,United States,byu.edu,abc@byu.edu
+Brigham Young University - Idaho,United States,byui.edu,abc@byui.edu
+Brigham Young University Hawaii,United States,byuh.edu,abc@byuh.edu
+Broward College,United States,broward.edu,abc@broward.edu
+Brown University,United States,brown.edu,abc@brown.edu
+Bryant University,United States,bryant.edu,abc@bryant.edu
+Bryn Mawr College,United States,brynmawr.edu,abc@brynmawr.edu
+Bucknell University,United States,bucknell.edu,abc@bucknell.edu
+Buena Vista University,United States,bvu.edu,abc@bvu.edu
+Butler University,United States,butler.edu,abc@butler.edu
+California Coast University,United States,calcoast.edu,abc@calcoast.edu
+California Institute of Technology,United States,caltech.edu,abc@caltech.edu
+California Lutheran University,United States,callutheran.edu,abc@callutheran.edu
+California Maritime Academy,United States,csum.edu,abc@csum.edu
+California National University,United States,cnuas.edu,abc@cnuas.edu
+"California Polytechnic State University, San Luis Obispo",United States,calpoly.edu,abc@calpoly.edu
+"California State University, Bakersfield",United States,csub.edu,abc@csub.edu
+"California State University, Bakersfield",United States,csubak.edu,abc@csubak.edu
+"California State University, Chico",United States,csuchico.edu,abc@csuchico.edu
+"California State University, Dominguez Hills",United States,csudh.edu,abc@csudh.edu
+"California State University, Fresno",United States,csufresno.edu,abc@csufresno.edu
+"California State University, Fresno",United States,fresnostate.edu,abc@fresnostate.edu
+"California State University, Fullerton",United States,fullerton.edu,abc@fullerton.edu
+"California State University, Hayward",United States,csuhayward.edu,abc@csuhayward.edu
+"California State University, Long Beach",United States,csulb.edu,abc@csulb.edu
+"California State University, Los Angeles",United States,calstatela.edu,abc@calstatela.edu
+"California State University, Monterey Bay",United States,csumb.edu,abc@csumb.edu
+"California State University, Northridge",United States,csun.edu,abc@csun.edu
+"California State University, Sacramento",United States,csus.edu,abc@csus.edu
+"California State University, San Bernardino",United States,csusb.edu,abc@csusb.edu
+"California State University, San Marcos",United States,csusm.edu,abc@csusm.edu
+"California State University, Stanislaus",United States,csustan.edu,abc@csustan.edu
+California State University System,United States,calstate.edu,abc@calstate.edu
+California University of Pennsylvania,United States,cup.edu,abc@cup.edu
+Calvin College,United States,calvin.edu,abc@calvin.edu
+Cameron University,United States,cameron.edu,abc@cameron.edu
+Campbellsville College,United States,campbellsville.edu,abc@campbellsville.edu
+Campbell University,United States,campbell.edu,abc@campbell.edu
+Canisius College,United States,canisius.edu,abc@canisius.edu
+Capella University,United States,capella.edu,abc@capella.edu
+Capella University,United States,capellauniversity.edu,abc@capellauniversity.edu
+Capitol Technology University,United States,captechu.edu,abc@captechu.edu
+Carleton College,United States,carleton.edu,abc@carleton.edu
+Carlow College,United States,carlow.edu,abc@carlow.edu
+Carnegie Mellon University,United States,cmu.edu,abc@cmu.edu
+Carroll College,United States,carroll.edu,abc@carroll.edu
+Carroll University,United States,carrollu.edu,abc@carrollu.edu
+Carson-Newman College,United States,cn.edu,abc@cn.edu
+Carthage College,United States,carthage.edu,abc@carthage.edu
+Case Western Reserve University,United States,case.edu,abc@case.edu
+Castleton State University,United States,castleton.edu,abc@castleton.edu
+Catholic University of America,United States,cua.edu,abc@cua.edu
+Cedarville College,United States,cedarville.edu,abc@cedarville.edu
+Centenary College of Louisiana,United States,centenary.edu,abc@centenary.edu
+Central College,United States,central.edu,abc@central.edu
+Central Connecticut State University,United States,ccsu.edu,abc@ccsu.edu
+Central Methodist College,United States,cmc.edu,abc@cmc.edu
+Central Michigan University,United States,cmich.edu,abc@cmich.edu
+Central Washington University,United States,cwu.edu,abc@cwu.edu
+Centre College,United States,centre.edu,abc@centre.edu
+Chadron State College,United States,csc.edu,abc@csc.edu
+Champlain College,United States,champlain.edu,abc@champlain.edu
+Chapman University,United States,chapman.edu,abc@chapman.edu
+Chatham College,United States,chatham.edu,abc@chatham.edu
+Chesapeake College,United States,chesapeake.edu,abc@chesapeake.edu
+Cheyney University,United States,cheyney.edu,abc@cheyney.edu
+Chicago School of Professional Psychology,United States,csopp.edu,abc@csopp.edu
+Christian Brothers University,United States,cbu.edu,abc@cbu.edu
+Christian Theological Seminary,United States,cts.edu,abc@cts.edu
+Christopher Newport University,United States,cnu.edu,abc@cnu.edu
+City University,United States,cityu.edu,abc@cityu.edu
+City University of New York,United States,cuny.edu,abc@cuny.edu
+Claremont Graduate School,United States,cgs.edu,abc@cgs.edu
+Claremont McKenna College,United States,claremontmckenna.edu,abc@claremontmckenna.edu
+Clarion University of Pennsylvania,United States,clarion.edu,abc@clarion.edu
+Clarke College,United States,clarke.edu,abc@clarke.edu
+Clarkson University,United States,clarkson.edu,abc@clarkson.edu
+Clark University,United States,clarku.edu,abc@clarku.edu
+Clayton State College,United States,clayton.edu,abc@clayton.edu
+Clemson University,United States,clemson.edu,abc@clemson.edu
+Cleveland State University,United States,csuohio.edu,abc@csuohio.edu
+Clinch Valley College,United States,clinch.edu,abc@clinch.edu
+Coastal Carolina University,United States,coastal.edu,abc@coastal.edu
+Coast Colleges,United States,cccd.edu,abc@cccd.edu
+Coe College,United States,coe.edu,abc@coe.edu
+Coker College,United States,coker.edu,abc@coker.edu
+Colby College,United States,colby.edu,abc@colby.edu
+Colgate University,United States,colgate.edu,abc@colgate.edu
+College of Charleston,United States,cofc.edu,abc@cofc.edu
+College of Eastern Utah,United States,ceu.edu,abc@ceu.edu
+College of New Rochelle,United States,cnr.edu,abc@cnr.edu
+College of Saint Benedict,United States,csbsju.edu,abc@csbsju.edu
+College of Saint Catherine,United States,stkate.edu,abc@stkate.edu
+College of Saint Rose,United States,strose.edu,abc@strose.edu
+College of St. Francis,United States,stfrancis.edu,abc@stfrancis.edu
+College of St. Scholastica,United States,css.edu,abc@css.edu
+College of the Atlantic,United States,coa.edu,abc@coa.edu
+College of the Holy Cross,United States,holycross.edu,abc@holycross.edu
+College of William and Mary,United States,wm.edu,abc@wm.edu
+College of Wooster,United States,wooster.edu,abc@wooster.edu
+Colorado Christian University,United States,ccu.edu,abc@ccu.edu
+Colorado College,United States,coloradocollege.edu,abc@coloradocollege.edu
+Colorado Mesa University,United States,coloradomesa.edu,abc@coloradomesa.edu
+Colorado School of Mines,United States,mines.edu,abc@mines.edu
+Colorado State University,United States,colostate.edu,abc@colostate.edu
+Colorado Technical University,United States,coloradotech.edu,abc@coloradotech.edu
+Colorado Technical University,United States,ctuonline.edu,abc@ctuonline.edu
+University of Colorado Anschutz Medical Campus,United States,cuanschutz.edu,abc@cuanschutz.edu
+Columbia College Chicago,United States,colum.edu,abc@colum.edu
+Columbia Southern University,United States,colsouth.edu,abc@colsouth.edu
+Columbia Union College,United States,cuc.edu,abc@cuc.edu
+Columbia University,United States,columbia.edu,abc@columbia.edu
+Community College of Baltimore County,United States,ccbcmd.edu,abc@ccbcmd.edu
+Concordia College - Ann Arbor,United States,ccaa.edu,abc@ccaa.edu
+Concordia College - Moorhead,United States,cord.edu,abc@cord.edu
+Concordia College - Seward,United States,ccsn.edu,abc@ccsn.edu
+Concordia College - St. Paul,United States,csp.edu,abc@csp.edu
+Connecticut College,United States,conncoll.edu,abc@conncoll.edu
+Connecticut State University System,United States,ct.edu,abc@ct.edu
+Cooper Union for the Advancement of Science and Art,United States,cooper.edu,abc@cooper.edu
+Coppin State University,United States,coppin.edu,abc@coppin.edu
+Allen College,United States,allencollege.edu,abc@allencollege.edu
+Cornell College,United States,cornell-iowa.edu,abc@cornell-iowa.edu
+Cornell University,United States,cornell.edu,abc@cornell.edu
+Corning Community College,United States,corning-cc.edu,abc@corning-cc.edu
+Creighton University,United States,creighton.edu,abc@creighton.edu
+Curry College,United States,curry.edu,abc@curry.edu
+Daemen College,United States,daemen.edu,abc@daemen.edu
+Dakota State University,United States,dsu.edu,abc@dsu.edu
+Dakota Wesleyan University,United States,dwu.edu,abc@dwu.edu
+Dallas Baptist University,United States,dbu.edu,abc@dbu.edu
+Dallas County Community College,United States,dcccd.edu,abc@dcccd.edu
+Dana College,United States,dana.edu,abc@dana.edu
+Daniel Webster College,United States,dwc.edu,abc@dwc.edu
+Dartmouth College,United States,dartmouth.edu,abc@dartmouth.edu
+Davenport University,United States,davenport.edu,abc@davenport.edu
+Davidson College,United States,davidson.edu,abc@davidson.edu
+Davis & Elkins College,United States,dne.wvnet.edu,abc@dne.wvnet.edu
+Daytona State College,United States,daytonastate.edu,abc@daytonastate.edu
+Delaware State University,United States,desu.edu,abc@desu.edu
+Delta State University,United States,deltastate.edu,abc@deltastate.edu
+Denison University,United States,denison.edu,abc@denison.edu
+DePaul University,United States,depaul.edu,abc@depaul.edu
+DePauw University,United States,depauw.edu,abc@depauw.edu
+DeVry Institute of Technology,United States,devry.edu,abc@devry.edu
+Dickinson College,United States,dickinson.edu,abc@dickinson.edu
+Dickinson State University,United States,dickinsonstate.edu,abc@dickinsonstate.edu
+Dillard University,United States,dillard.edu,abc@dillard.edu
+Dominican College,United States,dominican.edu,abc@dominican.edu
+Dordt College,United States,dordt.edu,abc@dordt.edu
+Dowling College,United States,dowling.edu,abc@dowling.edu
+Drake University,United States,drake.edu,abc@drake.edu
+Drew University,United States,drew.edu,abc@drew.edu
+Drexel University,United States,drexel.edu,abc@drexel.edu
+Drury College,United States,drury.edu,abc@drury.edu
+Duquesne University,United States,duq.edu,abc@duq.edu
+Earlham College,United States,earlham.edu,abc@earlham.edu
+East Carolina University,United States,ecu.edu,abc@ecu.edu
+East Central University,United States,ecok.edu,abc@ecok.edu
+Eastern Connecticut State University,United States,easternct.edu,abc@easternct.edu
+Eastern Illinois University,United States,eiu.edu,abc@eiu.edu
+Eastern Kentucky University,United States,eku.edu,abc@eku.edu
+Eastern Mennonite University,United States,emu.edu,abc@emu.edu
+Eastern Michigan University,United States,emich.edu,abc@emich.edu
+Eastern New Mexico University,United States,enmu.edu,abc@enmu.edu
+Eastern Oregon State College,United States,eou.edu,abc@eou.edu
+Eastern Washington University,United States,ewu.edu,abc@ewu.edu
+East Stroudsburg State University of Pennsylvania,United States,esu.edu,abc@esu.edu
+East Tennessee State University,United States,etsu.edu,abc@etsu.edu
+Edgewood College,United States,edgewood.edu,abc@edgewood.edu
+Edinboro University of Pennsylvania,United States,edinboro.edu,abc@edinboro.edu
+Elizabeth City State University,United States,ecsu.edu,abc@ecsu.edu
+Elizabethtown College,United States,etown.edu,abc@etown.edu
+Elmhurst College,United States,elmhurst.edu,abc@elmhurst.edu
+Elon College,United States,elon.edu,abc@elon.edu
+Embry-Riddle Aeronautical University,United States,erau.edu,abc@erau.edu
+Emerson College,United States,emerson.edu,abc@emerson.edu
+Emmanuel College,United States,emmanuel.edu,abc@emmanuel.edu
+Emory University,United States,emory.edu,abc@emory.edu
+Emory & Henry College,United States,ehc.edu,abc@ehc.edu
+Emporia State University,United States,emporia.edu,abc@emporia.edu
+Erie Community College,United States,ecc.edu,abc@ecc.edu
+Lake Erie College of Osteopathic Medicine,United States,lecom.edu,abc@lecom.edu
+East Texas Baptist University,United States,etbu.edu,abc@etbu.edu
+Evergreen State College,United States,evergreen.edu,abc@evergreen.edu
+Fairleigh Dickinson University,United States,fdu.edu,abc@fdu.edu
+Fairmont State College,United States,fairmontstate.edu,abc@fairmontstate.edu
+Fayetteville State University,United States,uncfsu.edu,abc@uncfsu.edu
+Ferris State University,United States,ferris.edu,abc@ferris.edu
+Fielding Institute,United States,fielding.edu,abc@fielding.edu
+Fisk University,United States,fisk.edu,abc@fisk.edu
+Fitchburg State College,United States,fsc.edu,abc@fsc.edu
+Florida Agricultural and Mechanical University,United States,famu.edu,abc@famu.edu
+Florida Atlantic University,United States,fau.edu,abc@fau.edu
+Florida Gulf Coast University,United States,fgcu.edu,abc@fgcu.edu
+Florida Institute of Technology,United States,fit.edu,abc@fit.edu
+Florida International University,United States,fiu.edu,abc@fiu.edu
+Florida State University,United States,fsu.edu,abc@fsu.edu
+Fontbonne College,United States,fontbonne.edu,abc@fontbonne.edu
+Fordham University,United States,fordham.edu,abc@fordham.edu
+Fort Hays State University,United States,fhsu.edu,abc@fhsu.edu
+Fort Lewis College,United States,fortlewis.edu,abc@fortlewis.edu
+Fountainhead College of Technology,United States,fountainheadcollege.edu,abc@fountainheadcollege.edu
+Franklin and Marshall College,United States,fandm.edu,abc@fandm.edu
+Franklin Pierce Law Center,United States,fplc.edu,abc@fplc.edu
+Franklin University,United States,franklin.edu,abc@franklin.edu
+Frederick Community College,United States,frederick.edu,abc@frederick.edu
+Fresno Pacific University,United States,fresno.edu,abc@fresno.edu
+Friends University,United States,friends.edu,abc@friends.edu
+Frostburg State University,United States,frostburg.edu,abc@frostburg.edu
+Fuller Theological Seminary,United States,fuller.edu,abc@fuller.edu
+Furman University,United States,furman.edu,abc@furman.edu
+Gallaudet University,United States,gallaudet.edu,abc@gallaudet.edu
+Gannon University,United States,gannon.edu,abc@gannon.edu
+Geneva College,United States,geneva.edu,abc@geneva.edu
+George Fox College,United States,gfc.edu,abc@gfc.edu
+George Mason University,United States,gmu.edu,abc@gmu.edu
+Georgetown University,United States,georgetown.edu,abc@georgetown.edu
+George Washington University,United States,gwu.edu,abc@gwu.edu
+Georgia College,United States,gcsu.edu,abc@gcsu.edu
+Georgia Institute of Technology,United States,gatech.edu,abc@gatech.edu
+Georgian Court University,United States,georgian.edu,abc@georgian.edu
+Georgia Southern University,United States,georgiasouthern.edu,abc@georgiasouthern.edu
+Georgia Southwestern State University,United States,gsw.edu,abc@gsw.edu
+Georgia State University,United States,gsu.edu,abc@gsu.edu
+Gettysburg College,United States,gettysburg.edu,abc@gettysburg.edu
+GMI Engineering and Management Institute,United States,gmi.edu,abc@gmi.edu
+Golden Gate University,United States,ggu.edu,abc@ggu.edu
+Goldey-Beacom College,United States,gbc.edu,abc@gbc.edu
+Gonzaga University,United States,gonzaga.edu,abc@gonzaga.edu
+Goshen College,United States,goshen.edu,abc@goshen.edu
+Goucher College,United States,goucher.edu,abc@goucher.edu
+Governors State University,United States,govst.edu,abc@govst.edu
+Grace College,United States,grace.edu,abc@grace.edu
+Graceland College,United States,graceland.edu,abc@graceland.edu
+Grand Valley State University,United States,gvsu.edu,abc@gvsu.edu
+Greenleaf University,United States,greenleaf.edu,abc@greenleaf.edu
+Grinnell College,United States,grinnell.edu,abc@grinnell.edu
+Guilford College,United States,guilford.edu,abc@guilford.edu
+Gustavus Adolphus College,United States,gac.edu,abc@gac.edu
+Gustavus Adolphus College,United States,gustavus.edu,abc@gustavus.edu
+Hagerstown Community College,United States,hagerstowncc.edu,abc@hagerstowncc.edu
+Hamilton College,United States,hamilton.edu,abc@hamilton.edu
+Hamline University,United States,hamline.edu,abc@hamline.edu
+Hampden-Sydney College,United States,hsc.edu,abc@hsc.edu
+Hampshire College,United States,hampshire.edu,abc@hampshire.edu
+Hampton University,United States,hamptonu.edu,abc@hamptonu.edu
+Hanover College,United States,hanover.edu,abc@hanover.edu
+Harding University,United States,harding.edu,abc@harding.edu
+Harford Community College,United States,harford.edu,abc@harford.edu
+Hartwick College,United States,hartwick.edu,abc@hartwick.edu
+Harvard University,United States,harvard.edu,abc@harvard.edu
+Harvey Mudd College,United States,hmc.edu,abc@hmc.edu
+Haskell Indian Nations University,United States,haskell.edu,abc@haskell.edu
+Hastings College,United States,hastings.edu,abc@hastings.edu
+Haverford College in Pennsylvania,United States,haverford.edu,abc@haverford.edu
+Hawaii Pacific University,United States,hpu.edu,abc@hpu.edu
+Heidelberg College,United States,heidelberg.edu,abc@heidelberg.edu
+Hendrix College,United States,hendrix.edu,abc@hendrix.edu
+Hesston College,United States,hesston.edu,abc@hesston.edu
+High Point University,United States,highpoint.edu,abc@highpoint.edu
+Hillsdale College,United States,hillsdale.edu,abc@hillsdale.edu
+Hiram College,United States,hiram.edu,abc@hiram.edu
+Hobart and William Smith Colleges,United States,hws.edu,abc@hws.edu
+Hofstra University,United States,hofstra.edu,abc@hofstra.edu
+Hollins College,United States,hollins.edu,abc@hollins.edu
+Hood College,United States,hood.edu,abc@hood.edu
+Hope College,United States,hope.edu,abc@hope.edu
+Howard Community College,United States,howardcc.edu,abc@howardcc.edu
+Howard University,United States,howard.edu,abc@howard.edu
+Humboldt State University,United States,humboldt.edu,abc@humboldt.edu
+Huntingdon College,United States,huntingdon.edu,abc@huntingdon.edu
+Huntington University,United States,huntington.edu,abc@huntington.edu
+ICI University,United States,ici.edu,abc@ici.edu
+Idaho State University,United States,isu.edu,abc@isu.edu
+Illinois Benedictine College,United States,ibc.edu,abc@ibc.edu
+Illinois Institute of Technology,United States,iit.edu,abc@iit.edu
+Illinois Institute of Technology,United States,hawk.iit.edu,abc@hawk.iit.edu
+Illinois State University,United States,illinoisstate.edu,abc@illinoisstate.edu
+Illinois State University,United States,ilstu.edu,abc@ilstu.edu
+Indiana Institute of Technology,United States,indianatech.edu,abc@indianatech.edu
+Indiana Institute of Technology,United States,indianatech.net,abc@indianatech.net
+Indiana State University,United States,indstate.edu,abc@indstate.edu
+Indiana University,United States,iu.edu,abc@iu.edu
+Indiana University - Bloomington,United States,indiana.edu,abc@indiana.edu
+Indiana University - Bloomington,United States,iub.edu,abc@iub.edu
+Indiana University - Bloomington,United States,bloomington.iu.edu,abc@bloomington.iu.edu
+Indiana University at South Bend,United States,iusb.edu,abc@iusb.edu
+Indiana University of Pennsylvania,United States,iup.edu,abc@iup.edu
+Indiana University/Purdue University at Columbus,United States,iupuc.edu,abc@iupuc.edu
+Indiana University/Purdue University at Fort Wayne,United States,ipfw.edu,abc@ipfw.edu
+Indiana University/Purdue University at Indianapolis,United States,iupui.edu,abc@iupui.edu
+Indiana University Southeast,United States,ius.edu,abc@ius.edu
+"Indiana Wesleyan University, Marion",United States,indwes.edu,abc@indwes.edu
+Institute for Advanced Study,United States,ias.edu,abc@ias.edu
+Institute for World Politics,United States,iwp.edu,abc@iwp.edu
+Iona College,United States,iona.edu,abc@iona.edu
+Iowa State University,United States,iastate.edu,abc@iastate.edu
+Irvine Valley College,United States,ivc.edu,abc@ivc.edu
+Ithaca College,United States,ithaca.edu,abc@ithaca.edu
+Jackson State University,United States,jsums.edu,abc@jsums.edu
+Jacksonville State University,United States,jsu.edu,abc@jsu.edu
+Jacksonville University,United States,ju.edu,abc@ju.edu
+James Madison University,United States,jmu.edu,abc@jmu.edu
+John Brown University,United States,jbu.edu,abc@jbu.edu
+John F. Kennedy University,United States,jfku.edu,abc@jfku.edu
+Johns Hopkins University,United States,jh.edu,abc@jh.edu
+Johns Hopkins University,United States,jhu.edu,abc@jhu.edu
+Johns Hopkins University,United States,johnshopkins.edu,abc@johnshopkins.edu
+Johns Hopkins University Applied Physics Laboratory,United States,jhuapl.edu,abc@jhuapl.edu
+Johnson & Wales University,United States,jwu.edu,abc@jwu.edu
+Johnson Bible College,United States,jbc.edu,abc@jbc.edu
+Johnson C. Smith University,United States,jcsu.edu,abc@jcsu.edu
+Jones College,United States,jones.edu,abc@jones.edu
+Judson College,United States,judson.edu,abc@judson.edu
+Juniata College,United States,juniata.edu,abc@juniata.edu
+Kalamazoo College,United States,kzoo.edu,abc@kzoo.edu
+Kansas State University,United States,ksu.edu,abc@ksu.edu
+Kansas State University,United States,k-state.edu,abc@k-state.edu
+Kansas Wesleyan University,United States,kwu.edu,abc@kwu.edu
+Kaplan University,United States,kaplan.edu,abc@kaplan.edu
+Kean College,United States,kean.edu,abc@kean.edu
+Keene State College,United States,keene.edu,abc@keene.edu
+Kennesaw State University,United States,kennesaw.edu,abc@kennesaw.edu
+Kent State University,United States,kent.edu,abc@kent.edu
+Kentucky Community & Technical College System,United States,kctcs.edu,abc@kctcs.edu
+Kenyon College,United States,kenyon.edu,abc@kenyon.edu
+Kettering University,United States,kettering.edu,abc@kettering.edu
+King's College,United States,kings.edu,abc@kings.edu
+Knox College,United States,knox.edu,abc@knox.edu
+Kutztown University of Pennsylvania,United States,kutztown.edu,abc@kutztown.edu
+Lafayette College,United States,lafayette.edu,abc@lafayette.edu
+LaGrange College,United States,lagrange.edu,abc@lagrange.edu
+Lake Forest College,United States,lfc.edu,abc@lfc.edu
+Lake Superior College,United States,lsc.edu,abc@lsc.edu
+Lake Superior State University,United States,lssu.edu,abc@lssu.edu
+Lamar University,United States,lamar.edu,abc@lamar.edu
+Langston University,United States,langston.edu,abc@langston.edu
+LaSalle University,United States,lasalle.edu,abc@lasalle.edu
+La Sierra University,United States,lasierra.edu,abc@lasierra.edu
+Lawrence Technological University,United States,ltu.edu,abc@ltu.edu
+Lawrence University,United States,lawrence.edu,abc@lawrence.edu
+Lebanon Valley College,United States,lvc.edu,abc@lvc.edu
+Lehigh University,United States,lehigh.edu,abc@lehigh.edu
+Le Moyne College,United States,lemoyne.edu,abc@lemoyne.edu
+Lenoir Community College,United States,lenoircc.edu,abc@lenoircc.edu
+Lenoir-Rhyne College,United States,lrc.edu,abc@lrc.edu
+LeTourneau University,United States,letu.edu,abc@letu.edu
+Lewis & Clark College,United States,lclark.edu,abc@lclark.edu
+Lewis-Clark State College,United States,lcsc.edu,abc@lcsc.edu
+Lewis University,United States,lewisu.edu,abc@lewisu.edu
+Liberty University,United States,liberty.edu,abc@liberty.edu
+Lincoln University,United States,lincoln.edu,abc@lincoln.edu
+Linfield College,United States,linfield.edu,abc@linfield.edu
+Lock Haven University,United States,lhup.edu,abc@lhup.edu
+Lock Haven University,United States,lockhaven.edu,abc@lockhaven.edu
+Loma Linda University,United States,llu.edu,abc@llu.edu
+Long Island University,United States,liunet.edu,abc@liunet.edu
+Longwood University,United States,longwood.edu,abc@longwood.edu
+Loras College,United States,loras.edu,abc@loras.edu
+Los Angeles Community College District,United States,laccd.edu,abc@laccd.edu
+Louisiana College,United States,lacollege.edu,abc@lacollege.edu
+Louisiana State University,United States,lsu.edu,abc@lsu.edu
+Louisiana State University at Alexandria,United States,lsua.edu,abc@lsua.edu
+Louisiana Tech University,United States,latech.edu,abc@latech.edu
+Loyola College,United States,loyola.edu,abc@loyola.edu
+Loyola Marymount University,United States,lmu.edu,abc@lmu.edu
+Loyola University Chicago,United States,luc.edu,abc@luc.edu
+Luther College,United States,luther.edu,abc@luther.edu
+Luther Seminary,United States,luthersem.edu,abc@luthersem.edu
+Lycoming College,United States,lycoming.edu,abc@lycoming.edu
+Lynchburg College,United States,lynchburg.edu,abc@lynchburg.edu
+Lyndon State College,United States,lyndonstate.edu,abc@lyndonstate.edu
+Lyon College,United States,lyon.edu,abc@lyon.edu
+Macalester College,United States,macalester.edu,abc@macalester.edu
+Maharishi University of Management,United States,mum.edu,abc@mum.edu
+Malone College,United States,malone.edu,abc@malone.edu
+Manhattan College,United States,manhattan.edu,abc@manhattan.edu
+Mansfield University of Pennsylvania,United States,mansfield.edu,abc@mansfield.edu
+Marietta College,United States,marietta.edu,abc@marietta.edu
+Marist College,United States,marist.edu,abc@marist.edu
+Marlboro College,United States,marlboro.edu,abc@marlboro.edu
+Marquette University,United States,marquette.edu,abc@marquette.edu
+Marshall University,United States,marshall.edu,abc@marshall.edu
+Mary Baldwin College,United States,mbc.edu,abc@mbc.edu
+Marymount Manhattan College,United States,mmm.edu,abc@mmm.edu
+Marymount University,United States,marymount.edu,abc@marymount.edu
+Mary Washington College,United States,mwc.edu,abc@mwc.edu
+Massachusetts Institute of Technology,United States,mit.edu,abc@mit.edu
+McDaniel College,United States,mcdaniel.edu,abc@mcdaniel.edu
+McMurry University,United States,mcm.edu,abc@mcm.edu
+McNeese State University,United States,mcneese.edu,abc@mcneese.edu
+Medical College of Georgia,United States,mcg.edu,abc@mcg.edu
+Medical College of Wisconsin,United States,mcw.edu,abc@mcw.edu
+Mercer County Community College,United States,mccc.edu,abc@mccc.edu
+Mercer University,United States,mercer.edu,abc@mercer.edu
+Mercy College,United States,mercymavericks.edu,abc@mercymavericks.edu
+Mercy College,United States,mercy.edu,abc@mercy.edu
+Mercyhurst University,United States,mercyhurst.edu,abc@mercyhurst.edu
+Meredith College,United States,meredith.edu,abc@meredith.edu
+Messiah College,United States,messiah.edu,abc@messiah.edu
+Metropolitan Community College (MO),United States,mcckc.edu,abc@mcckc.edu
+Metropolitan Community College (NE),United States,mccneb.edu,abc@mccneb.edu
+Metropolitan State College of Denver,United States,msudenver.edu,abc@msudenver.edu
+Denver College of Nursing,United States,denvercollegeofnursing.edu,abc@denvercollegeofnursing.edu
+Metropolitan State University,United States,metrostate.edu,abc@metrostate.edu
+Miami University of Ohio,United States,miamioh.edu,abc@miamioh.edu
+Michigan State University,United States,msu.edu,abc@msu.edu
+Michigan Technological University,United States,mtu.edu,abc@mtu.edu
+Mid-America Nazarene College,United States,manc.edu,abc@manc.edu
+Middlebury College,United States,middlebury.edu,abc@middlebury.edu
+Middle Georgia State College,United States,mga.edu,abc@mga.edu
+Middle Tennessee State University,United States,mtsu.edu,abc@mtsu.edu
+Midwestern State University,United States,mwsu.edu,abc@mwsu.edu
+Millersville University of Pennsylvania,United States,millersville.edu,abc@millersville.edu
+Milligan College,United States,milligan.edu,abc@milligan.edu
+Millikin University,United States,millikin.edu,abc@millikin.edu
+Millsaps College,United States,millsaps.edu,abc@millsaps.edu
+Milwaukee School of Engineering,United States,msoe.edu,abc@msoe.edu
+Minneapolis College of Art and Design,United States,mcad.edu,abc@mcad.edu
+"Minnesota State University, Mankato",United States,mnsu.edu,abc@mnsu.edu
+Minnesota State University Moorhead,United States,mnstate.edu,abc@mnstate.edu
+Minot State University,United States,minotstateu.edu,abc@minotstateu.edu
+Mississippi College,United States,mc.edu,abc@mc.edu
+Mississippi State University,United States,msstate.edu,abc@msstate.edu
+Mississippi University for Women,United States,muw.edu,abc@muw.edu
+Missouri Southern State College,United States,mssc.edu,abc@mssc.edu
+Missouri University of Science and Technology,United States,mst.edu,abc@mst.edu
+Missouri Western State College,United States,mwsc.edu,abc@mwsc.edu
+Molloy College,United States,molloy.edu,abc@molloy.edu
+Monmouth College,United States,monmouthcollege.edu,abc@monmouthcollege.edu
+Monmouth University,United States,monmouth.edu,abc@monmouth.edu
+Montana State University - Billings,United States,msubillings.edu,abc@msubillings.edu
+Montana State University - Bozeman,United States,montana.edu,abc@montana.edu
+Montana State University - Northern,United States,msun.edu,abc@msun.edu
+Montana Tech,United States,mtech.edu,abc@mtech.edu
+Montclair State University,United States,montclair.edu,abc@montclair.edu
+Montgomery College,United States,montgomerycollege.edu,abc@montgomerycollege.edu
+Montreat College,United States,montreat.edu,abc@montreat.edu
+Moravian College,United States,moravian.edu,abc@moravian.edu
+Morgan State University,United States,morgan.edu,abc@morgan.edu
+Mott Community College,United States,mcc.edu,abc@mcc.edu
+Mount Holyoke College,United States,mtholyoke.edu,abc@mtholyoke.edu
+Mount Saint Joseph College,United States,msj.edu,abc@msj.edu
+Mount Saint Mary College,United States,msmc.edu,abc@msmc.edu
+Mount Senario College,United States,mscfs.edu,abc@mscfs.edu
+Mount Union College,United States,muc.edu,abc@muc.edu
+Murray State University,United States,mursuky.edu,abc@mursuky.edu
+Muskingum College,United States,muskingum.edu,abc@muskingum.edu
+Nashville State Community College,United States,nscc.edu,abc@nscc.edu
+National Defense University,United States,ndu.edu,abc@ndu.edu
+National-Louis University,United States,nl.edu,abc@nl.edu
+National Radio Astronomy Observatory,United States,nrao.edu,abc@nrao.edu
+National University,United States,nu.edu,abc@nu.edu
+Naval Postgraduate School,United States,nps.edu,abc@nps.edu
+Nazareth College,United States,naz.edu,abc@naz.edu
+Nevada System of Higher Education,United States,nevada.edu,abc@nevada.edu
+Newberry College,United States,newberry.edu,abc@newberry.edu
+New College of California,United States,newcollege.edu,abc@newcollege.edu
+New England Institute of Technology,United States,neit.edu,abc@neit.edu
+New Hampshire College,United States,nhc.edu,abc@nhc.edu
+New Jersey Institute of Technology,United States,njit.edu,abc@njit.edu
+New Mexico Highlands University,United States,nmhu.edu,abc@nmhu.edu
+New Mexico Institute of Mining & Technology,United States,nmt.edu,abc@nmt.edu
+New Mexico State University,United States,nmsu.edu,abc@nmsu.edu
+New York Institute of Technology,United States,nyit.edu,abc@nyit.edu
+New York University,United States,nyu.edu,abc@nyu.edu
+Niagara University,United States,niagara.edu,abc@niagara.edu
+Nicholls State University,United States,nicholls.edu,abc@nicholls.edu
+Norfolk State University,United States,nsu.edu,abc@nsu.edu
+North American University,United States,na.edu,abc@na.edu
+Northampton Community College,United States,northampton.edu,abc@northampton.edu
+North Carolina A&T State University,United States,ncat.edu,abc@ncat.edu
+North Carolina Central University,United States,nccu.edu,abc@nccu.edu
+North Carolina State University,United States,ncsu.edu,abc@ncsu.edu
+North Carolina Wesleyan College,United States,ncwc.edu,abc@ncwc.edu
+North Central Bible College,United States,ncbc.edu,abc@ncbc.edu
+North Dakota State University,United States,ndsu.edu,abc@ndsu.edu
+Northeastern Louisiana University,United States,nlu.edu,abc@nlu.edu
+Northeastern State University,United States,nsuok.edu,abc@nsuok.edu
+Northeastern University,United States,neu.edu,abc@neu.edu
+Northeastern University,United States,northeastern.edu,abc@northeastern.edu
+Northern Arizona University,United States,nau.edu,abc@nau.edu
+Northern Illinois University,United States,niu.edu,abc@niu.edu
+Northern Kentucky University,United States,nku.edu,abc@nku.edu
+Northern Michigan University,United States,nmu.edu,abc@nmu.edu
+Northern State University,United States,northern.edu,abc@northern.edu
+Northland College,United States,northland.edu,abc@northland.edu
+North Park College and Theological Seminary,United States,npcts.edu,abc@npcts.edu
+Northwestern College of Iowa,United States,nwciowa.edu,abc@nwciowa.edu
+Northwestern State University,United States,nsula.edu,abc@nsula.edu
+Northwestern University,United States,northwestern.edu,abc@northwestern.edu
+Northwest Missouri State University,United States,nwmissouri.edu,abc@nwmissouri.edu
+Northwest Nazarene College,United States,nnc.edu,abc@nnc.edu
+Norwich University,United States,norwich.edu,abc@norwich.edu
+Nova Southeastern University,United States,nova.edu,abc@nova.edu
+Oakland University,United States,oakland.edu,abc@oakland.edu
+Oakwood University,United States,oakwood.edu,abc@oakwood.edu
+Oberlin College,United States,oberlin.edu,abc@oberlin.edu
+Occidental College,United States,oxy.edu,abc@oxy.edu
+Ohio Dominican College,United States,odc.edu,abc@odc.edu
+Ohio Northern University,United States,onu.edu,abc@onu.edu
+Ohio State University - Columbus,United States,osu.edu,abc@osu.edu
+Ohio University,United States,ohio.edu,abc@ohio.edu
+Ohio Wesleyan University,United States,owu.edu,abc@owu.edu
+Oklahoma Baptist University,United States,okbu.edu,abc@okbu.edu
+Oklahoma City University,United States,okcu.edu,abc@okcu.edu
+Oklahoma State University,United States,okstate.edu,abc@okstate.edu
+Old Dominion University,United States,odu.edu,abc@odu.edu
+Olivet Nazarene University,United States,olivet.edu,abc@olivet.edu
+Oral Roberts University,United States,oru.edu,abc@oru.edu
+Oregon Graduate Institute of Science and Technology,United States,ogi.edu,abc@ogi.edu
+Oregon Health Sciences University,United States,ohsu.edu,abc@ohsu.edu
+Oregon Institute of Technology,United States,oit.edu,abc@oit.edu
+Oregon State University,United States,oregonstate.edu,abc@oregonstate.edu
+Otterbein College,United States,otterbein.edu,abc@otterbein.edu
+Our Lady of the Lake University,United States,ollusa.edu,abc@ollusa.edu
+Pace University,United States,pace.edu,abc@pace.edu
+Pacific Lutheran University,United States,plu.edu,abc@plu.edu
+Pacific Union College,United States,puc.edu,abc@puc.edu
+Pacific University,United States,pacificu.edu,abc@pacificu.edu
+Pacific Western University,United States,pwu.com,abc@pwu.com
+Palm Beach Atlantic College,United States,pbac.edu,abc@pbac.edu
+Palm Beach State College,United States,palmbeachstate.edu,abc@palmbeachstate.edu
+Peace College,United States,peace.edu,abc@peace.edu
+Pembroke State University,United States,pembroke.edu,abc@pembroke.edu
+Pennsylvania College of Technology,United States,pct.edu,abc@pct.edu
+Pennsylvania State University,United States,psu.edu,abc@psu.edu
+Pennsylvania State University - Schuylkill Campus,United States,sl.psu.edu,abc@sl.psu.edu
+Pensacola Christian College,United States,pcci.edu,abc@pcci.edu
+Pensacola State College,United States,pensacolastate.edu,abc@pensacolastate.edu
+Pepperdine University,United States,pepperdine.edu,abc@pepperdine.edu
+Peru State College,United States,peru.edu,abc@peru.edu
+Purdue University Fort Wayne,United States,pfw.edu,abc@pfw.edu
+Philadelphia University,United States,philau.edu,abc@philau.edu
+Phillips University,United States,phillips.edu,abc@phillips.edu
+Pittsburg State University,United States,pittstate.edu,abc@pittstate.edu
+Pitzer College,United States,pitzer.edu,abc@pitzer.edu
+Platt College,United States,platt.edu,abc@platt.edu
+Plymouth State University,United States,plymouth.edu,abc@plymouth.edu
+Polytechnic University of New York,United States,poly.edu,abc@poly.edu
+Polytechnic University of Puerto Rico,United States,pupr.edu,abc@pupr.edu
+Pomona College,United States,pomona.edu,abc@pomona.edu
+Portland Community College,United States,pcc.edu,abc@pcc.edu
+Portland State University,United States,pdx.edu,abc@pdx.edu
+Prairie View A&M University,United States,pvamu.edu,abc@pvamu.edu
+Pratt Institute,United States,pratt.edu,abc@pratt.edu
+Presbyterian College,United States,presby.edu,abc@presby.edu
+Prescott College,United States,prescott.edu,abc@prescott.edu
+Princeton University,United States,princeton.edu,abc@princeton.edu
+Providence College,United States,providence.edu,abc@providence.edu
+Purdue Global University,United States,purdueglobal.edu,abc@purdueglobal.edu
+Purdue Global University (Student email),United States,student.purdueglobal.edu,abc@student.purdueglobal.edu
+Purdue University,United States,purdue.edu,abc@purdue.edu
+Purdue University Calumet,United States,purduecal.edu,abc@purduecal.edu
+Purdue University North Central,United States,pnc.edu,abc@pnc.edu
+Quincy University,United States,quincy.edu,abc@quincy.edu
+Quinnipiac College,United States,quinnipiac.edu,abc@quinnipiac.edu
+Radford University,United States,radford.edu,abc@radford.edu
+Ramapo College,United States,ramapo.edu,abc@ramapo.edu
+Randolph-Macon College,United States,rmc.edu,abc@rmc.edu
+Randolph-Macon Woman's College,United States,rmwc.edu,abc@rmwc.edu
+Reed College,United States,reed.edu,abc@reed.edu
+Regent University,United States,regent.edu,abc@regent.edu
+Regis University,United States,regis.edu,abc@regis.edu
+Rensselaer Polytechnic Institute,United States,rpi.edu,abc@rpi.edu
+Rhode Island College,United States,ric.edu,abc@ric.edu
+Rhodes College,United States,rhodes.edu,abc@rhodes.edu
+Rice University,United States,rice.edu,abc@rice.edu
+Richard Stockton College of New Jersey,United States,stockton.edu,abc@stockton.edu
+Rider University,United States,rider.edu,abc@rider.edu
+Ripon College,United States,ripon.edu,abc@ripon.edu
+Rivier College,United States,riv.edu,abc@riv.edu
+Roanoke College,United States,roanoke.edu,abc@roanoke.edu
+Robert Morris University,United States,rmu.edu,abc@rmu.edu
+Rochester Institute of Technology,United States,rit.edu,abc@rit.edu
+Rockefeller University,United States,rockefeller.edu,abc@rockefeller.edu
+Rockford College,United States,rockford.edu,abc@rockford.edu
+Rockhurst College,United States,rockhurst.edu,abc@rockhurst.edu
+Rocky Mountain College,United States,rocky.edu,abc@rocky.edu
+Roger Williams University,United States,rwu.edu,abc@rwu.edu
+Rollins College,United States,rollins.edu,abc@rollins.edu
+Rosary College,United States,rosary.edu,abc@rosary.edu
+Rose-Hulman Institute of Technology,United States,rose-hulman.edu,abc@rose-hulman.edu
+Rowan College,United States,rowan.edu,abc@rowan.edu
+Rutgers University,United States,rutgers.edu,abc@rutgers.edu
+Sacred Heart University,United States,sacredheart.edu,abc@sacredheart.edu
+Sacred Heart University,United States,mail.sacredheart.edu,abc@mail.sacredheart.edu
+Sage Colleges,United States,sage.edu,abc@sage.edu
+Saginaw Valley State University,United States,svsu.edu,abc@svsu.edu
+Saint Anselm College,United States,anselm.edu,abc@anselm.edu
+Saint Cloud State University,United States,stcloudstate.edu,abc@stcloudstate.edu
+Saint Edward's University,United States,stedwards.edu,abc@stedwards.edu
+St. Francis College,United States,sfc.edu,abc@sfc.edu
+Saint John's University (NY),United States,stjohns.edu,abc@stjohns.edu
+Saint Joseph's College (IN),United States,saintjoe.edu,abc@saintjoe.edu
+Saint Joseph's University,United States,sju.edu,abc@sju.edu
+Saint Leo University,United States,saintleo.edu,abc@saintleo.edu
+Saint Louis University,United States,slu.edu,abc@slu.edu
+Saint Mary College,United States,smcks.edu,abc@smcks.edu
+Saint Mary's College (IN),United States,saintmarys.edu,abc@saintmarys.edu
+Saint Mary's College of California,United States,stmarys-ca.edu,abc@stmarys-ca.edu
+Saint Mary's University of Minnesota,United States,smumn.edu,abc@smumn.edu
+Saint Michael's College,United States,smcvt.edu,abc@smcvt.edu
+Saint Olaf College,United States,stolaf.edu,abc@stolaf.edu
+Saint Vincent College,United States,stvincent.edu,abc@stvincent.edu
+Saint Xavier University,United States,sxu.edu,abc@sxu.edu
+Salisbury University,United States,salisbury.edu,abc@salisbury.edu
+Salish Kootenai College,United States,skc.edu,abc@skc.edu
+Samford University,United States,samford.edu,abc@samford.edu
+Sam Houston State University,United States,shsu.edu,abc@shsu.edu
+San Diego State University,United States,sdsu.edu,abc@sdsu.edu
+San Francisco State University,United States,sfsu.edu,abc@sfsu.edu
+San Jose State University,United States,sjsu.edu,abc@sjsu.edu
+Santa Clara University,United States,scu.edu,abc@scu.edu
+Sarah Lawrence College,United States,slc.edu,abc@slc.edu
+School of the Art Institute of Chicago,United States,saic.edu,abc@saic.edu
+Seattle Central College,United States,seattlecentral.edu,abc@seattlecentral.edu
+Seattle Pacific University,United States,spu.edu,abc@spu.edu
+Seattle University,United States,seattleu.edu,abc@seattleu.edu
+Seton Hall University,United States,shu.edu,abc@shu.edu
+"Sewanee, University of the South",United States,sewanee.edu,abc@sewanee.edu
+Shawnee State University,United States,shawnee.edu,abc@shawnee.edu
+Shenandoah University,United States,su.edu,abc@su.edu
+Shippensburg University of Pennsylvania,United States,ship.edu,abc@ship.edu
+Shorter College,United States,shorter.edu,abc@shorter.edu
+Simmons College,United States,simmons.edu,abc@simmons.edu
+Simon's Rock College,United States,simons-rock.edu,abc@simons-rock.edu
+Simpson College,United States,simpson.edu,abc@simpson.edu
+Sinclair Community College,United States,sinclair.edu,abc@sinclair.edu
+Skidmore College,United States,skidmore.edu,abc@skidmore.edu
+Slippery Rock University of Pennsylvania,United States,sru.edu,abc@sru.edu
+Smith College,United States,smith.edu,abc@smith.edu
+Sonoma State University,United States,sonoma.edu,abc@sonoma.edu
+South Dakota School of Mines and Technology,United States,sdsmt.edu,abc@sdsmt.edu
+South Dakota State University,United States,sdstate.edu,abc@sdstate.edu
+Southeastern Louisiana University,United States,selu.edu,abc@selu.edu
+Southeast Missouri State University,United States,semo.edu,abc@semo.edu
+Southern College,United States,southern.edu,abc@southern.edu
+Southern College of Technology,United States,sct.edu,abc@sct.edu
+Southern Connecticut State University,United States,southernct.edu,abc@southernct.edu
+Southern Illinois University-Carbondale,United States,siu.edu,abc@siu.edu
+Southern Illinois University-Edwardsville,United States,siue.edu,abc@siue.edu
+Southern Methodist University,United States,smu.edu,abc@smu.edu
+Southern Nazarene University,United States,snu.edu,abc@snu.edu
+Southern New Hampshire University,United States,snhu.edu,abc@snhu.edu
+Southern Oregon State College,United States,sou.edu,abc@sou.edu
+Southern University and A&M College,United States,subr.edu,abc@subr.edu
+Southern Utah University,United States,suu.edu,abc@suu.edu
+South Texas College of Law,United States,stcl.edu,abc@stcl.edu
+Southwest Baptist University,United States,sbuniv.edu,abc@sbuniv.edu
+Southwestern Adventist College,United States,swac.edu,abc@swac.edu
+Southwestern Assemblies of God University,United States,sagu.edu,abc@sagu.edu
+Southwestern College (KS),United States,sckans.edu,abc@sckans.edu
+Southwestern University,United States,southwestern.edu,abc@southwestern.edu
+Southwest Minnesota State University,United States,smsu.edu,abc@smsu.edu
+Southwest Texas State University,United States,swt.edu,abc@swt.edu
+Spelman College,United States,auc.edu,abc@auc.edu
+Spring Arbor College,United States,arbor.edu,abc@arbor.edu
+Spring Hill College,United States,shc.edu,abc@shc.edu
+St. Ambrose University,United States,sau.edu,abc@sau.edu
+St. Andrews Presbyterian College,United States,sapc.edu,abc@sapc.edu
+Stanford University,United States,stanford.edu,abc@stanford.edu
+State University of New York at Albany,United States,albany.edu,abc@albany.edu
+State University of New York at Binghamton,United States,binghamton.edu,abc@binghamton.edu
+State University of New York at Buffalo,United States,buffalo.edu,abc@buffalo.edu
+State University of New York at Farmingdale,United States,farmingdale.edu,abc@farmingdale.edu
+State University of New York at Fredonia,United States,fredonia.edu,abc@fredonia.edu
+State University of New York at Oswego,United States,oswego.edu,abc@oswego.edu
+State University of New York at Plattsburgh,United States,plattsburgh.edu,abc@plattsburgh.edu
+State University of New York at Stony Brook,United States,stonybrook.edu,abc@stonybrook.edu
+State University of New York at Stony Brook,United States,fsl.cs.sunysb.edu,abc@fsl.cs.sunysb.edu
+State University of New York at Stony Brook,United States,cs.sunysb.edu,abc@cs.sunysb.edu
+State University of New York at Stony Brook,United States,lmc.cs.sunysb.edu,abc@lmc.cs.sunysb.edu
+Academic medical center at State University of New York at Stony Brook,United States,stonybrookmedicine.edu,abc@stonybrookmedicine.edu
+State University of New York College at Brockport,United States,brockport.edu,abc@brockport.edu
+State University of New York College at Buffalo,United States,buffalostate.edu,abc@buffalostate.edu
+State University of New York College at Cortland,United States,cortland.edu,abc@cortland.edu
+State University of New York College at Geneseo,United States,geneseo.edu,abc@geneseo.edu
+State University of New York College at New Paltz,United States,newpaltz.edu,abc@newpaltz.edu
+State University of New York College at Potsdam,United States,potsdam.edu,abc@potsdam.edu
+State University of New York College of Agriculture and Technology at Cobleskill,United States,cobleskill.edu,abc@cobleskill.edu
+State University of New York College of Environmental Science and Forestry,United States,esf.edu,abc@esf.edu
+State University of New York College of Technology at Alfred,United States,alfredtech.edu,abc@alfredtech.edu
+State University of New York Polytechnic Institute,United States,sunyit.edu,abc@sunyit.edu
+State University of New York System,United States,sunycentral.edu,abc@sunycentral.edu
+St. Bonaventure University,United States,sbu.edu,abc@sbu.edu
+Stephen F. Austin State University,United States,sfasu.edu,abc@sfasu.edu
+Stephens College,United States,stephens.edu,abc@stephens.edu
+Stetson University,United States,stetson.edu,abc@stetson.edu
+Stevens Institute of Technology,United States,stevens.edu,abc@stevens.edu
+St. John's College - Annapolis,United States,sjca.edu,abc@sjca.edu
+St. John's College - Santa Fe,United States,sjcsf.edu,abc@sjcsf.edu
+St. Joseph College (CT),United States,sjc.edu,abc@sjc.edu
+St. Joseph's College (ME),United States,sjcme.edu,abc@sjcme.edu
+St. Lawrence University,United States,stlawu.edu,abc@stlawu.edu
+St. Louis College of Pharmacy,United States,stlcop.edu,abc@stlcop.edu
+St. Martin's College,United States,stmartin.edu,abc@stmartin.edu
+St. Mary's College of Maryland,United States,smcm.edu,abc@smcm.edu
+Strayer College,United States,strayer.edu,abc@strayer.edu
+St. Thomas University (FL),United States,stu.edu,abc@stu.edu
+Suffolk University,United States,suffolk.edu,abc@suffolk.edu
+Sul Ross State University,United States,sulross.edu,abc@sulross.edu
+Summit University of Louisiana,United States,summitunivofla.edu,abc@summitunivofla.edu
+Susquehanna University,United States,susqu.edu,abc@susqu.edu
+Swarthmore College,United States,swarthmore.edu,abc@swarthmore.edu
+Sweet Briar College,United States,sbc.edu,abc@sbc.edu
+Syracuse University,United States,syr.edu,abc@syr.edu
+Tabor College,United States,tabor.edu,abc@tabor.edu
+Tarleton State University,United States,tarleton.edu,abc@tarleton.edu
+Taylor University,United States,tayloru.edu,abc@tayloru.edu
+Temple University,United States,temple.edu,abc@temple.edu
+Tennessee State University,United States,tnstate.edu,abc@tnstate.edu
+Tennessee Technological University,United States,tntech.edu,abc@tntech.edu
+Tarrant County College,United States,tccd.edu,abc@tccd.edu
+Texas A&M International University,United States,tamiu.edu,abc@tamiu.edu
+Texas A&M University - College Station,United States,tamu.edu,abc@tamu.edu
+Texas A&M University - Commerce,United States,tamuc.edu,abc@tamuc.edu
+Texas A&M University - Corpus Christi,United States,tamucc.edu,abc@tamucc.edu
+Texas A&M University - Kingsville,United States,tamuk.edu,abc@tamuk.edu
+Texas Christian University,United States,tcu.edu,abc@tcu.edu
+Texas Southern University,United States,tsu.edu,abc@tsu.edu
+Texas State University,United States,txstate.edu,abc@txstate.edu
+Texas Tech University,United States,ttu.edu,abc@ttu.edu
+Texas Tech University-Health Sciences Center,United States,ttuhsc.edu,abc@ttuhsc.edu
+Texas Woman's University,United States,twu.edu,abc@twu.edu
+The Citadel,United States,citadel.edu,abc@citadel.edu
+The Jewish Theological Seminary,United States,jtsa.edu,abc@jtsa.edu
+Thomas College,United States,thomas.edu,abc@thomas.edu
+Thomas Edison State University,United States,tesc.edu,abc@tesc.edu
+Thomas Edison State University,United States,tesu.edu,abc@tesu.edu
+Thomas Jefferson University,United States,tju.edu,abc@tju.edu
+Thomas More College,United States,thomasmore.edu,abc@thomasmore.edu
+Thunderbird School of Global Management,United States,thunderbird.edu,abc@thunderbird.edu
+Towson University,United States,towson.edu,abc@towson.edu
+Transylvania University,United States,transy.edu,abc@transy.edu
+Trenton State College,United States,trenton.edu,abc@trenton.edu
+Trine University,United States,trine.edu,abc@trine.edu
+Trinity College (CT),United States,trincoll.edu,abc@trincoll.edu
+Trinity College (DC),United States,trinitydc.edu,abc@trinitydc.edu
+Trinity University,United States,trinity.edu,abc@trinity.edu
+Troy State University,United States,tsufl.edu,abc@tsufl.edu
+Truman State University,United States,truman.edu,abc@truman.edu
+Tucson University,United States,tucsonu.edu,abc@tucsonu.edu
+Tufts University,United States,tufts.edu,abc@tufts.edu
+Tulane University,United States,tulane.edu,abc@tulane.edu
+Tuskegee University,United States,tuskegee.edu,abc@tuskegee.edu
+Uniformed Services University of the Health Sciences,United States,usuhs.mil,abc@usuhs.mil
+Union College,United States,union.edu,abc@union.edu
+Union Institute,United States,tui.edu,abc@tui.edu
+Union University,United States,uu.edu,abc@uu.edu
+United States Air Force Academy,United States,usafa.af.mil,abc@usafa.af.mil
+United States Air Force Academy,United States,usafa.edu,abc@usafa.edu
+United States International University,United States,usiu.edu,abc@usiu.edu
+United States Merchant Marine Academy,United States,usmma.edu,abc@usmma.edu
+United States Military Academy,United States,usma.edu,abc@usma.edu
+United States Naval Academy,United States,usna.edu,abc@usna.edu
+University of Advancing Technology,United States,uat.edu,abc@uat.edu
+University of Akron,United States,uakron.edu,abc@uakron.edu
+University of Alabama at Birmingham,United States,uab.edu,abc@uab.edu
+University of Alabama at Huntsville,United States,uah.edu,abc@uah.edu
+University of Alaska,United States,alaska.edu,abc@alaska.edu
+University of Alaska - Anchorage,United States,uaa.alaska.edu,abc@uaa.alaska.edu
+University of Alaska - Fairbanks,United States,uaf.edu,abc@uaf.edu
+University of Alaska - Southeast,United States,uas.alaska.edu,abc@uas.alaska.edu
+University of Arizona,United States,arizona.edu,abc@arizona.edu
+University of Arkansas - Fayetteville,United States,uark.edu,abc@uark.edu
+University of Arkansas - Fort Smith,United States,uafs.edu,abc@uafs.edu
+University of Arkansas for Medical Sciences,United States,uams.edu,abc@uams.edu
+University of Arkansas - Little Rock,United States,ualr.edu,abc@ualr.edu
+University of Arkansas - Monticello,United States,uamont.edu,abc@uamont.edu
+University of Baltimore,United States,ubalt.edu,abc@ubalt.edu
+University of Bridgeport,United States,bridgeport.edu,abc@bridgeport.edu
+"University of California, Berkeley",United States,berkeley.edu,abc@berkeley.edu
+"University of California, Davis",United States,ucdavis.edu,abc@ucdavis.edu
+"University of California, Irvine",United States,uci.edu,abc@uci.edu
+"University of California, Los Angeles",United States,ucla.edu,abc@ucla.edu
+"University of California, Merced",United States,ucmerced.edu,abc@ucmerced.edu
+"University of California, Office of the President",United States,ucop.edu,abc@ucop.edu
+"University of California, Riverside",United States,ucr.edu,abc@ucr.edu
+"University of California, San Diego",United States,ucsd.edu,abc@ucsd.edu
+"University of California, San Francisco",United States,ucsf.edu,abc@ucsf.edu
+"University of California, Santa Barbara",United States,ucsb.edu,abc@ucsb.edu
+"University of California, Santa Cruz",United States,ucsc.edu,abc@ucsc.edu
+University of Central Arkansas,United States,uca.edu,abc@uca.edu
+University of Central Florida,United States,ucf.edu,abc@ucf.edu
+University of Central Missouri,United States,ucmo.edu,abc@ucmo.edu
+UC Hastings College of the Law,United States,uchastings.edu,abc@uchastings.edu
+University of Charleston,United States,uchaswv.edu,abc@uchaswv.edu
+University of Chicago,United States,uchicago.edu,abc@uchicago.edu
+University of Cincinnati,United States,uc.edu,abc@uc.edu
+University of Colorado at Boulder,United States,colorado.edu,abc@colorado.edu
+University of Colorado at Colorado Springs,United States,uccs.edu,abc@uccs.edu
+University of Colorado at Denver,United States,ucdenver.edu,abc@ucdenver.edu
+University of Colorado Health Sciences Center,United States,hsc.colorado.edu,abc@hsc.colorado.edu
+University of Connecticut,United States,uconn.edu,abc@uconn.edu
+University of Dallas,United States,udallas.edu,abc@udallas.edu
+University of Dayton,United States,udayton.edu,abc@udayton.edu
+University of Delaware,United States,udel.edu,abc@udel.edu
+University of Denver,United States,du.edu,abc@du.edu
+University of Detroit Mercy,United States,udmercy.edu,abc@udmercy.edu
+University of Dubuque,United States,dbq.edu,abc@dbq.edu
+University of Evansville,United States,evansville.edu,abc@evansville.edu
+University of Florida,United States,ufl.edu,abc@ufl.edu
+University of Georgia,United States,uga.edu,abc@uga.edu
+University of Great Falls,United States,ugf.edu,abc@ugf.edu
+University of Hartford,United States,hartford.edu,abc@hartford.edu
+University of Hawaii at Hilo,United States,hilo.hawaii.edu,abc@hilo.hawaii.edu
+University of Hawaii at Manoa,United States,manoa.hawaii.edu,abc@manoa.hawaii.edu
+University of Hawaii System,United States,hawaii.edu,abc@hawaii.edu
+University of Houston,United States,uh.edu,abc@uh.edu
+University of Idaho,United States,uidaho.edu,abc@uidaho.edu
+University of Illinois Chicago,United States,uic.edu,abc@uic.edu
+University of Illinois Springfield,United States,uis.edu,abc@uis.edu
+University of Illinois Urbana-Champaign,United States,uiuc.edu,abc@uiuc.edu
+University of Illinois Urbana-Champaign,United States,illinois.edu,abc@illinois.edu
+University of Indianapolis,United States,uindy.edu,abc@uindy.edu
+University of Iowa,United States,uiowa.edu,abc@uiowa.edu
+University of Jamestown,United States,uj.edu,abc@uj.edu
+University of Kansas,United States,ku.edu,abc@ku.edu
+University of Kansas School of Medicine,United States,kumc.edu,abc@kumc.edu
+University of Kentucky,United States,uky.edu,abc@uky.edu
+University of Louisiana at Lafeyette,United States,louisiana.edu,abc@louisiana.edu
+University of Louisiana at Monroe,United States,ulm.edu,abc@ulm.edu
+University of Louisville,United States,louisville.edu,abc@louisville.edu
+University of Maine,United States,umaine.edu,abc@umaine.edu
+University of Maine at Farmington,United States,umf.maine.edu,abc@umf.maine.edu
+University of Maine at Fort Kent,United States,umfk.maine.edu,abc@umfk.maine.edu
+University of Maine at Machias,United States,umm.maine.edu,abc@umm.maine.edu
+University of Maine at Presque Island,United States,umpi.maine.edu,abc@umpi.maine.edu
+University of Maine System,United States,maine.edu,abc@maine.edu
+"University of Maryland, Baltimore",United States,umaryland.edu,abc@umaryland.edu
+Mayo Clinic,United States,mayo.edu,abc@mayo.edu
+"University of Maryland, Baltimore County",United States,umbc.edu,abc@umbc.edu
+"University of Maryland, College Park",United States,umd.edu,abc@umd.edu
+University of Maryland Eastern Shore,United States,umes.edu,abc@umes.edu
+University of Maryland - University College,United States,umuc.edu,abc@umuc.edu
+University of Massachusetts at Amherst,United States,umass.edu,abc@umass.edu
+University of Massachusetts at Dartmouth,United States,umassd.edu,abc@umassd.edu
+University of Massachusetts at Lowell,United States,uml.edu,abc@uml.edu
+University of Massachusetts at Lowell,United States,student.uml.edu,abc@student.uml.edu
+University of Memphis,United States,memphis.edu,abc@memphis.edu
+University of Miami,United States,miami.edu,abc@miami.edu
+University of Michigan - Ann Arbor,United States,umich.edu,abc@umich.edu
+University of Michigan - Dearborn,United States,umdearborn.edu,abc@umdearborn.edu
+University of Minnesota,United States,umn.edu,abc@umn.edu
+University of Minnesota - Crookston,United States,crk.umn.edu,abc@crk.umn.edu
+University of Minnesota - Duluth,United States,d.umn.edu,abc@d.umn.edu
+University of Minnesota - Morris,United States,mrs.umn.edu,abc@mrs.umn.edu
+University of Mississippi,United States,olemiss.edu,abc@olemiss.edu
+University of Missouri,United States,missouri.edu,abc@missouri.edu
+University of Missouri,United States,umsystem.edu,abc@umsystem.edu
+University of Missouri - Kansas City,United States,umkc.edu,abc@umkc.edu
+University of Missouri - Rolla,United States,umr.edu,abc@umr.edu
+University of Missouri - Saint Louis,United States,umsl.edu,abc@umsl.edu
+University of Montana,United States,umt.edu,abc@umt.edu
+"University of Nebraska, Kearney",United States,unk.edu,abc@unk.edu
+"University of Nebraska, Lincoln",United States,unl.edu,abc@unl.edu
+"University of Nebraska, Omaha",United States,unomaha.edu,abc@unomaha.edu
+"University of Nevada, Las Vegas",United States,unlv.edu,abc@unlv.edu
+"University of Nevada, Reno",United States,unr.edu,abc@unr.edu
+University of New England,United States,une.edu,abc@une.edu
+University of New Hampshire,United States,unh.edu,abc@unh.edu
+University of New Haven,United States,newhaven.edu,abc@newhaven.edu
+University of New Mexico,United States,unm.edu,abc@unm.edu
+University of New Orleans,United States,uno.edu,abc@uno.edu
+University of North Carolina at Asheville,United States,unca.edu,abc@unca.edu
+University of North Carolina at Chapel Hill,United States,unc.edu,abc@unc.edu
+University of North Carolina at Chapel Hill,United States,ad.unc.edu,abc@ad.unc.edu
+University of North Carolina at Charlotte,United States,uncc.edu,abc@uncc.edu
+The University of North Carolina at Greensboro,United States,uncg.edu,abc@uncg.edu
+University of North Carolina at Wilmington,United States,uncw.edu,abc@uncw.edu
+University of North Dakota,United States,und.edu,abc@und.edu
+University of North Dakota,United States,nodak.edu,abc@nodak.edu
+University of Northern Colorado,United States,unco.edu,abc@unco.edu
+University of Northern Iowa,United States,uni.edu,abc@uni.edu
+University of North Florida,United States,unf.edu,abc@unf.edu
+University of North Texas,United States,unt.edu,abc@unt.edu
+University of North Texas Health Science Center,United States,hsc.unt.edu,abc@hsc.unt.edu
+University of North Texas Health Science Center,United States,unthsc.edu,abc@unthsc.edu
+University of Notre Dame,United States,nd.edu,abc@nd.edu
+University of Oklahoma,United States,ou.edu,abc@ou.edu
+University of Oregon,United States,uoregon.edu,abc@uoregon.edu
+University of Pennsylvania,United States,upenn.edu,abc@upenn.edu
+University of Pennsylvania,United States,seas.upenn.edu,abc@seas.upenn.edu
+University of Phoenix,United States,phoenix.edu,abc@phoenix.edu
+University of Phoenix,United States,email.uophx.edu,abc@email.uophx.edu
+University of Pittsburgh,United States,pitt.edu,abc@pitt.edu
+University of Pittsburgh at Johnstown,United States,upj.pitt.edu,abc@upj.pitt.edu
+University of Pittsburgh at Bradford,United States,upb.pitt.edu,abc@upb.pitt.edu
+University of Portland,United States,up.edu,abc@up.edu
+University of Puerto Rico,United States,upr.edu,abc@upr.edu
+University of Puget Sound,United States,ups.edu,abc@ups.edu
+University of Redlands,United States,uor.edu,abc@uor.edu
+University of Rhode Island,United States,uri.edu,abc@uri.edu
+University of Richmond,United States,urich.edu,abc@urich.edu
+University of Rochester,United States,rochester.edu,abc@rochester.edu
+University of Saint Thomas (MN),United States,stthomas.edu,abc@stthomas.edu
+University of Saint Thomas (TX),United States,stthom.edu,abc@stthom.edu
+University of San Diego,United States,sandiego.edu,abc@sandiego.edu
+University of San Francisco,United States,usfca.edu,abc@usfca.edu
+University of Science & Arts of Oklahoma,United States,usao.edu,abc@usao.edu
+University of Scranton,United States,scranton.edu,abc@scranton.edu
+University of Sioux Falls,United States,usouixfalls.edu,abc@usouixfalls.edu
+University of South Alabama,United States,southalabama.edu,abc@southalabama.edu
+University of South Carolina,United States,sc.edu,abc@sc.edu
+Anderson University,United States,andersonuniversity.edu,abc@andersonuniversity.edu
+University of South Carolina - Aiken,United States,usca.edu,abc@usca.edu
+University of South Dakota,United States,usd.edu,abc@usd.edu
+University of Southern California,United States,usc.edu,abc@usc.edu
+University of Southern California,United States,isi.edu,abc@isi.edu
+University of Southern Indiana,United States,usi.edu,abc@usi.edu
+University of Southern Maine,United States,usm.maine.edu,abc@usm.maine.edu
+University of Southern Mississippi,United States,usm.edu,abc@usm.edu
+University of South Florida,United States,usf.edu,abc@usf.edu
+University of Southwestern Louisiana,United States,usl.edu,abc@usl.edu
+University of Tampa,United States,ut.edu,abc@ut.edu
+University of Tennessee at Chattanooga,United States,utc.edu,abc@utc.edu
+"University of Tennessee, Knoxville",United States,utk.edu,abc@utk.edu
+"University of Tennessee, Martin",United States,utm.edu,abc@utm.edu
+University of Texas at Arlington,United States,uta.edu,abc@uta.edu
+The University of Texas at Austin,United States,utexas.edu,abc@utexas.edu
+University of Texas at Brownsville,United States,utb.edu,abc@utb.edu
+University of Texas at Dallas,United States,utd.edu,abc@utd.edu
+University of Texas at Dallas,United States,utdallas.edu,abc@utdallas.edu
+University of Texas at El Paso,United States,utep.edu,abc@utep.edu
+The University of Texas at San Antonio,United States,utsa.edu,abc@utsa.edu
+University of Texas at Tyler,United States,uttyler.edu,abc@uttyler.edu
+University of Texas Medical Branch,United States,utmb.edu,abc@utmb.edu
+University of Texas - Pan American,United States,panam.edu,abc@panam.edu
+University of Texas Southwestern Medical Center,United States,swmed.edu,abc@swmed.edu
+University of Texas Southwestern Medical Center,United States,utsouthwestern.edu,abc@utsouthwestern.edu
+University of Texas Permian Basin,United States,utpb.edu,abc@utpb.edu
+University of the District of Columbia,United States,udc.edu,abc@udc.edu
+University of the Incarnate Word,United States,uiw.edu,abc@uiw.edu
+University of the Incarnate Word,United States,uiwtx.edu,abc@uiwtx.edu
+University of the Ozarks,United States,ozarks.edu,abc@ozarks.edu
+University of the Pacific,United States,uop.edu,abc@uop.edu
+University of the Pacific,United States,pacific.edu,abc@pacific.edu
+University of Toledo,United States,utoledo.edu,abc@utoledo.edu
+University of Tulsa,United States,utulsa.edu,abc@utulsa.edu
+University of Utah,United States,utah.edu,abc@utah.edu
+University of Vermont,United States,uvm.edu,abc@uvm.edu
+"University of Virginia, Charlottesville",United States,virginia.edu,abc@virginia.edu
+University of Washington,United States,uw.edu,abc@uw.edu
+University of Washington,United States,washington.edu,abc@washington.edu
+University of West Alabama,United States,westal.edu,abc@westal.edu
+University of West Florida,United States,uwf.edu,abc@uwf.edu
+University of Wisconsin - Eau Claire,United States,uwec.edu,abc@uwec.edu
+University of Wisconsin - Green Bay,United States,uwgb.edu,abc@uwgb.edu
+University of Wisconsin - LaCrosse,United States,uwlax.edu,abc@uwlax.edu
+University of Wisconsin - Madison,United States,wisc.edu,abc@wisc.edu
+University of Wisconsin - Milwaukee,United States,uwm.edu,abc@uwm.edu
+University of Wisconsin - Oshkosh,United States,uwosh.edu,abc@uwosh.edu
+University of Wisconsin - Parkside,United States,uwp.edu,abc@uwp.edu
+University of Wisconsin - Platteville,United States,uwplatt.edu,abc@uwplatt.edu
+University of Wisconsin - River Falls,United States,uwrf.edu,abc@uwrf.edu
+University of Wisconsin - Stevens Point,United States,uwsp.edu,abc@uwsp.edu
+University of Wisconsin - Stout,United States,uwstout.edu,abc@uwstout.edu
+University of Wisconsin - Superior,United States,uwsuper.edu,abc@uwsuper.edu
+University of Wisconsin System,United States,uwsa.edu,abc@uwsa.edu
+University of Wisconsin - Whitewater,United States,uww.edu,abc@uww.edu
+University of Wyoming,United States,uwyo.edu,abc@uwyo.edu
+Upper Iowa University,United States,uiu.edu,abc@uiu.edu
+Ursinus College,United States,ursinus.edu,abc@ursinus.edu
+Utah State University,United States,usu.edu,abc@usu.edu
+Utah Valley State College,United States,uvsc.edu,abc@uvsc.edu
+Valdosta State University,United States,valdosta.edu,abc@valdosta.edu
+Valley City State University,United States,vcsu.nodak.edu,abc@vcsu.nodak.edu
+Valparaiso University,United States,valpo.edu,abc@valpo.edu
+Vance-Granville Community College,United States,vgcc.edu,abc@vgcc.edu
+Vanderbilt University,United States,vanderbilt.edu,abc@vanderbilt.edu
+Vassar College,United States,vassar.edu,abc@vassar.edu
+Vermont Technical College,United States,vtc.edu,abc@vtc.edu
+Villa Julie College,United States,vjc.edu,abc@vjc.edu
+Villanova University,United States,villanova.edu,abc@villanova.edu
+Virginia Commonwealth University,United States,vcu.edu,abc@vcu.edu
+Virginia Community College System,United States,vccs.edu,abc@vccs.edu
+Virginia Intermont College,United States,vic.edu,abc@vic.edu
+Virginia Military Institute,United States,vmi.edu,abc@vmi.edu
+Virginia Tech,United States,vt.edu,abc@vt.edu
+Virginia State University,United States,vsu.edu,abc@vsu.edu
+Virginia Wesleyan College,United States,vwc.edu,abc@vwc.edu
+Wabash College,United States,wabash.edu,abc@wabash.edu
+Wake Forest University,United States,wfu.edu,abc@wfu.edu
+Walden University,United States,waldenu.edu,abc@waldenu.edu
+Walla Walla University,United States,wallawalla.edu,abc@wallawalla.edu
+Walsh College,United States,walshcollege.edu,abc@walshcollege.edu
+Warren Wilson College,United States,warren-wilson.edu,abc@warren-wilson.edu
+Wartburg College,United States,wartburg.edu,abc@wartburg.edu
+Washburn University,United States,wuacc.edu,abc@wuacc.edu
+Washington & Lee University,United States,wlu.edu,abc@wlu.edu
+Washington Bible College/Capital Bible Seminary,United States,bible.edu,abc@bible.edu
+Washington College,United States,washcoll.edu,abc@washcoll.edu
+Washington State University,United States,wsu.edu,abc@wsu.edu
+Washington State University at Vancouver,United States,vancouver.wsu.edu,abc@vancouver.wsu.edu
+"Washington University, Saint Louis",United States,wustl.edu,abc@wustl.edu
+Waubonsee Community College,United States,waubonsee.edu,abc@waubonsee.edu
+Waynesburg College,United States,waynesburg.edu,abc@waynesburg.edu
+Wayne State University,United States,wayne.edu,abc@wayne.edu
+Weber State University,United States,weber.edu,abc@weber.edu
+Webster University,United States,webster.edu,abc@webster.edu
+Wellesley College,United States,wellesley.edu,abc@wellesley.edu
+Wells College,United States,wells.edu,abc@wells.edu
+Wentworth Institute of Technology,United States,wit.edu,abc@wit.edu
+Wesleyan University,United States,wesleyan.edu,abc@wesleyan.edu
+Wesley College,United States,wesley.edu,abc@wesley.edu
+West Chester University of Pennsylvania,United States,wcupa.edu,abc@wcupa.edu
+West Coast University,United States,westcoastuniversity.edu,abc@westcoastuniversity.edu
+Western Carolina University,United States,wcu.edu,abc@wcu.edu
+Western Connecticut State University,United States,wcsu.edu,abc@wcsu.edu
+Western Governors University,United States,wgu.edu,abc@wgu.edu
+Western Illinois University,United States,wiu.edu,abc@wiu.edu
+Western Kentucky University,United States,wku.edu,abc@wku.edu
+Western Michigan University,United States,wmich.edu,abc@wmich.edu
+Western Montana College,United States,wmc.edu,abc@wmc.edu
+Western New England College,United States,wnec.edu,abc@wnec.edu
+Western New Mexico University,United States,wnmu.edu,abc@wnmu.edu
+Western State Colorado University,United States,western.edu,abc@western.edu
+Western Washington University,United States,wwu.edu,abc@wwu.edu
+Westfield State College,United States,westfield.mass.edu,abc@westfield.mass.edu
+University of West Georgia,United States,westga.edu,abc@westga.edu
+West Liberty State College,United States,wlsc.wvnet.edu,abc@wlsc.wvnet.edu
+Westminster College of New Wilmington,United States,westminster.edu,abc@westminster.edu
+Westminster College of Fulton,United States,westminster-mo.edu,abc@westminster-mo.edu
+Westminster College of Salt Lake City,United States,wcslc.edu,abc@wcslc.edu
+Westminster Theological Seminary,United States,wts.edu,abc@wts.edu
+Westmont College,United States,westmont.edu,abc@westmont.edu
+West Texas A&M University,United States,wtamu.edu,abc@wtamu.edu
+West Virginia University,United States,wvu.edu,abc@wvu.edu
+West Virginia University at Parkersburg,United States,westliberty.edu,abc@westliberty.edu
+Wheaton College,United States,wheaton.edu,abc@wheaton.edu
+"Wheaton College, Norton MA",United States,wheatonma.edu,abc@wheatonma.edu
+Wheeling Jesuit College,United States,wjc.edu,abc@wjc.edu
+Whitman College,United States,whitman.edu,abc@whitman.edu
+Whittier College,United States,whittier.edu,abc@whittier.edu
+Whitworth College,United States,whitworth.edu,abc@whitworth.edu
+Wichita State University,United States,wichita.edu,abc@wichita.edu
+Widener University,United States,widener.edu,abc@widener.edu
+Wilberforce University,United States,wilberforce.edu,abc@wilberforce.edu
+Wilkes University,United States,wilkes.edu,abc@wilkes.edu
+Willamette University,United States,willamette.edu,abc@willamette.edu
+William Howard Taft University,United States,taftu.edu,abc@taftu.edu
+William Jewell College,United States,jewell.edu,abc@jewell.edu
+William Mitchell College of Law,United States,wmitchell.edu,abc@wmitchell.edu
+William Paterson University,United States,wpunj.edu,abc@wpunj.edu
+William Penn College,United States,wmpenn.edu,abc@wmpenn.edu
+Williams College,United States,williams.edu,abc@williams.edu
+William Woods University,United States,wmwoods.edu,abc@wmwoods.edu
+Wilmington College,United States,wilmington.edu,abc@wilmington.edu
+Winona State University,United States,winona.edu,abc@winona.edu
+Winthrop University,United States,winthrop.edu,abc@winthrop.edu
+Wittenberg University,United States,wittenberg.edu,abc@wittenberg.edu
+Wofford College,United States,wofford.edu,abc@wofford.edu
+Woodbury University,United States,woodbury.edu,abc@woodbury.edu
+Worcester Polytechnic Institute,United States,wpi.edu,abc@wpi.edu
+Wright State University,United States,wright.edu,abc@wright.edu
+Xavier University of Louisiana,United States,xula.edu,abc@xula.edu
+Yale University,United States,yale.edu,abc@yale.edu
+Yeshiva University,United States,yu.edu,abc@yu.edu
+York College of Pennsylvania,United States,ycp.edu,abc@ycp.edu
+Youngstown State University,United States,ysu.edu,abc@ysu.edu
+Houston Baptist University,United States,hbu.edu,abc@hbu.edu
+Brookings Institution,United States,brookings.edu,abc@brookings.edu
+Woods Hole Oceanographic Institution,United States,whoi.edu,abc@whoi.edu
+Alabama Southern Community College,United States,ascc.edu,abc@ascc.edu
+Bevill State Community College,United States,bscc.edu,abc@bscc.edu
+Bishop State Community College,United States,bishop.edu,abc@bishop.edu
+Central Alabama Community College,United States,cacc.edu,abc@cacc.edu
+Chattahoochee Valley Community College,United States,cv.edu,abc@cv.edu
+Duke University,United States,duke.edu,abc@duke.edu
+Enterprise State Community College,United States,escc.edu,abc@escc.edu
+Gadsden State Community College,United States,gadsdenstate.edu,abc@gadsdenstate.edu
+George C Wallace State Community College-Dothan,United States,wallace.edu,abc@wallace.edu
+George C Wallace State Community College-Hanceville,United States,wallacestate.edu,abc@wallacestate.edu
+George C Wallace State Community College-Selma,United States,wccs.edu,abc@wccs.edu
+H Councill Trenholm State Technical College,United States,trenholmstate.edu,abc@trenholmstate.edu
+James H Faulkner State Community College,United States,faulknerstate.edu,abc@faulknerstate.edu
+Jefferson Davis Community College,United States,jdcc.edu,abc@jdcc.edu
+Jefferson State Community College,United States,jeffstateonline.com,abc@jeffstateonline.com
+J F Drake State Community and Technical College,United States,drakestate.edu,abc@drakestate.edu
+Calhoun Community College,United States,calhoun.edu,abc@calhoun.edu
+Lurleen B Wallace Community College,United States,lbwcc.edu,abc@lbwcc.edu
+Marion Military Institute,United States,marionmilitary.edu,abc@marionmilitary.edu
+Northeast Alabama Community College,United States,nacc.edu,abc@nacc.edu
+Northwest-Shoals Community College,United States,nwscc.edu,abc@nwscc.edu
+Shelton State Community College,United States,sheltonstate.edu,abc@sheltonstate.edu
+Snead State Community College,United States,snead.edu,abc@snead.edu
+Southern Union State Community College,United States,suscc.edu,abc@suscc.edu
+Ilisagvik College,United States,ilisagvik.edu,abc@ilisagvik.edu
+Prince William Sound College,United States,pwsc.alaska.edu,abc@pwsc.alaska.edu
+Central Arizona College,United States,centralaz.edu,abc@centralaz.edu
+Chandler-Gilbert Community College,United States,cgc.maricopa.edu,abc@cgc.maricopa.edu
+Cochise College,United States,cochise.edu,abc@cochise.edu
+Coconino Community College,United States,coconino.edu,abc@coconino.edu
+Eastern Arizona College,United States,eac.edu,abc@eac.edu
+GateWay Community College,United States,gatewaycc.edu,abc@gatewaycc.edu
+Glendale Community College,United States,gccaz.edu,abc@gccaz.edu
+Minerva University,United States,minerva.edu,abc@minerva.edu
+Mesa Community College,United States,mesacc.edu,abc@mesacc.edu
+Mesa Community College,United States,maricopa.edu,abc@maricopa.edu
+Mohave Community College,United States,mohave.edu,abc@mohave.edu
+Northland Pioneer College,United States,npc.edu,abc@npc.edu
+Paradise Valley Community College,United States,pvc.maricopa.edu,abc@pvc.maricopa.edu
+Phoenix College,United States,phoenixcollege.edu,abc@phoenixcollege.edu
+Pima Community College,United States,pima.edu,abc@pima.edu
+Rio Salado College,United States,rio.maricopa.edu,abc@rio.maricopa.edu
+Scottsdale Community College,United States,scottsdalecc.edu,abc@scottsdalecc.edu
+South Mountain Community College,United States,southmountaincc.edu,abc@southmountaincc.edu
+Tohono O'Odham Community College,United States,tocc.edu,abc@tocc.edu
+Yavapai College,United States,yc.edu,abc@yc.edu
+Arkansas Northeastern College,United States,anc.edu,abc@anc.edu
+Arkansas State University-Beebe,United States,asub.edu,abc@asub.edu
+Arkansas State University-Mountain Home,United States,asumh.edu,abc@asumh.edu
+Arkansas State University-Newport,United States,asun.edu,abc@asun.edu
+Black River Technical College,United States,blackrivertech.edu,abc@blackrivertech.edu
+College of the Ouachitas,United States,coto.edu,abc@coto.edu
+Cossatot Community College of the University of Arkansas,United States,cccua.edu,abc@cccua.edu
+East Arkansas Community College,United States,www.eacc.edu,abc@www.eacc.edu
+Mid-South Community College,United States,midsouthcc.edu,abc@midsouthcc.edu
+National Park Community College,United States,npcc.edu,abc@npcc.edu
+North Arkansas College,United States,northark.edu,abc@northark.edu
+NorthWest Arkansas Community College,United States,nwacc.edu,abc@nwacc.edu
+Ozarka College,United States,ozarka.edu,abc@ozarka.edu
+Phillips Community College of the University of Arkansas,United States,pccua.edu,abc@pccua.edu
+Pulaski Technical College,United States,pulaskitech.edu,abc@pulaskitech.edu
+Rich Mountain Community College,United States,rmcc.edu,abc@rmcc.edu
+South Arkansas Community College,United States,southark.edu,abc@southark.edu
+Southeast Arkansas College,United States,seark.edu,abc@seark.edu
+Southern Arkansas University Tech,United States,sautech.edu,abc@sautech.edu
+University of Arkansas Community College-Batesville,United States,uaccb.edu,abc@uaccb.edu
+University of Arkansas Community College-Hope,United States,uacch.edu,abc@uacch.edu
+University of Arkansas Community College-Morrilton,United States,uaccm.edu,abc@uaccm.edu
+Allan Hancock College,United States,hancockcollege.edu,abc@hancockcollege.edu
+American River College,United States,arc.losrios.edu,abc@arc.losrios.edu
+Antelope Valley College,United States,avc.edu,abc@avc.edu
+Bakersfield College,United States,bakersfieldcollege.edu,abc@bakersfieldcollege.edu
+Barstow Community College,United States,barstow.edu,abc@barstow.edu
+Berkeley City College,United States,berkeleycitycollege.edu,abc@berkeleycitycollege.edu
+Butte College,United States,butte.edu,abc@butte.edu
+Cabrillo College,United States,cabrillo.edu,abc@cabrillo.edu
+Canada College,United States,canadacollege.edu,abc@canadacollege.edu
+Carrington College California-Sacramento,United States,carrington.edu,abc@carrington.edu
+Cerritos College,United States,cerritos.edu,abc@cerritos.edu
+Cerro Coso Community College,United States,cerrocoso.edu,abc@cerrocoso.edu
+Chabot College,United States,chabotcollege.edu,abc@chabotcollege.edu
+Chaffey College,United States,chaffey.edu,abc@chaffey.edu
+Citrus College,United States,citruscollege.edu,abc@citruscollege.edu
+City College of San Francisco,United States,ccsf.edu,abc@ccsf.edu
+Coastline Community College,United States,coastline.edu,abc@coastline.edu
+College of Alameda,United States,peralta.edu,abc@peralta.edu
+College of Marin,United States,marin.edu,abc@marin.edu
+College of San Mateo,United States,collegeofsanmateo.edu,abc@collegeofsanmateo.edu
+College of the Canyons,United States,canyons.edu,abc@canyons.edu
+College of the Desert,United States,collegeofthedesert.edu,abc@collegeofthedesert.edu
+College of the Redwoods,United States,redwoods.edu,abc@redwoods.edu
+College of the Sequoias,United States,cos.edu,abc@cos.edu
+College of the Siskiyous,United States,siskiyous.edu,abc@siskiyous.edu
+Columbia College (MO),United States,ccis.edu,abc@ccis.edu
+Columbia College (CA),United States,gocolumbia.edu,abc@gocolumbia.edu
+Contra Costa College,United States,contracosta.edu,abc@contracosta.edu
+Copper Mountain Community College,United States,cmccd.edu,abc@cmccd.edu
+Cosumnes River College,United States,crc.losrios.edu,abc@crc.losrios.edu
+Crafton Hills College,United States,craftonhills.edu,abc@craftonhills.edu
+Cuesta College,United States,www.cuesta.edu,abc@www.cuesta.edu
+Cuyamaca College,United States,cuyamaca.edu,abc@cuyamaca.edu
+Cypress College,United States,cypresscollege.edu,abc@cypresscollege.edu
+De Anza College,United States,deanza.edu,abc@deanza.edu
+Diablo Valley College,United States,dvc.edu,abc@dvc.edu
+East Los Angeles College,United States,elac.edu,abc@elac.edu
+El Camino College-Compton Center,United States,compton.edu,abc@compton.edu
+El Camino Community College District,United States,elcamino.edu,abc@elcamino.edu
+Evergreen Valley College,United States,evc.edu,abc@evc.edu
+Feather River Community College District,United States,frc.edu,abc@frc.edu
+Folsom Lake College,United States,flc.losrios.edu,abc@flc.losrios.edu
+Foothill College,United States,foothill.edu,abc@foothill.edu
+Fresno City College,United States,fresnocitycollege.edu,abc@fresnocitycollege.edu
+Fullerton College,United States,fullcoll.edu,abc@fullcoll.edu
+Gavilan College,United States,gavilan.edu,abc@gavilan.edu
+Glendale Community College,United States,glendale.edu,abc@glendale.edu
+Golden West College,United States,goldenwestcollege.edu,abc@goldenwestcollege.edu
+Grossmont College,United States,grossmont.edu,abc@grossmont.edu
+Hartnell College,United States,hartnell.edu,abc@hartnell.edu
+Imperial Valley College,United States,imperial.edu,abc@imperial.edu
+Lake Tahoe Community College,United States,ltcc.edu,abc@ltcc.edu
+Laney College,United States,laney.edu,abc@laney.edu
+Las Positas College,United States,laspositascollege.edu,abc@laspositascollege.edu
+Lassen Community College,United States,lassencollege.edu,abc@lassencollege.edu
+Long Beach City College,United States,lbcc.edu,abc@lbcc.edu
+Los Angeles City College,United States,lacitycollege.edu,abc@lacitycollege.edu
+Los Angeles County College of Nursing and Allied Health,United States,ladhs.org,abc@ladhs.org
+Los Angeles Harbor College,United States,lahc.edu,abc@lahc.edu
+Los Angeles Mission College,United States,lamission.edu,abc@lamission.edu
+Los Angeles Pierce College,United States,piercecollege.edu,abc@piercecollege.edu
+Los Angeles Southwest College,United States,lasc.edu,abc@lasc.edu
+Los Angeles Trade Technical College,United States,lattc.edu,abc@lattc.edu
+Los Angeles Valley College,United States,lavc.edu,abc@lavc.edu
+Los Medanos College,United States,losmedanos.edu,abc@losmedanos.edu
+Mendocino College,United States,mendocino.edu,abc@mendocino.edu
+Merced College,United States,mccd.edu,abc@mccd.edu
+Merritt College,United States,merritt.edu,abc@merritt.edu
+MiraCosta College,United States,miracosta.edu,abc@miracosta.edu
+Mission College,United States,missioncollege.edu,abc@missioncollege.edu
+Modesto Junior College,United States,mjc.edu,abc@mjc.edu
+Monterey Peninsula College,United States,mpc.edu,abc@mpc.edu
+Moorpark College,United States,moorparkcollege.edu,abc@moorparkcollege.edu
+Moreno Valley College,United States,mvc.edu,abc@mvc.edu
+MTI College,United States,sacramento.mticollege.edu,abc@sacramento.mticollege.edu
+Mt. San Antonio College,United States,mtsac.edu,abc@mtsac.edu
+Mt. San Jacinto Community College District,United States,msjc.edu,abc@msjc.edu
+Napa Valley College,United States,napavalley.edu,abc@napavalley.edu
+Ohlone College,United States,ohlone.edu,abc@ohlone.edu
+Orange Coast College,United States,orangecoastcollege.edu,abc@orangecoastcollege.edu
+Oxnard College,United States,oxnardcollege.edu,abc@oxnardcollege.edu
+Palomar College,United States,palomar.edu,abc@palomar.edu
+Palo Verde College,United States,paloverde.edu,abc@paloverde.edu
+Pasadena City College,United States,pasadena.edu,abc@pasadena.edu
+Porterville College,United States,portervillecollege.edu,abc@portervillecollege.edu
+Reedley College,United States,reedleycollege.edu,abc@reedleycollege.edu
+Rio Hondo College,United States,riohondo.edu,abc@riohondo.edu
+Riverside City College,United States,rcc.edu,abc@rcc.edu
+Sacramento City College,United States,scc.losrios.edu,abc@scc.losrios.edu
+Saddleback College,United States,saddleback.edu,abc@saddleback.edu
+San Bernardino Valley College,United States,valleycollege.edu,abc@valleycollege.edu
+San Diego City College,United States,sdcity.edu,abc@sdcity.edu
+San Diego City College,United States,student.sdccd.edu,abc@student.sdccd.edu
+San Diego Mesa College,United States,sdmesa.edu,abc@sdmesa.edu
+San Diego Miramar College,United States,sdmiramar.edu,abc@sdmiramar.edu
+San Joaquin Delta College,United States,deltacollege.edu,abc@deltacollege.edu
+San Joaquin Valley College-Visalia,United States,sjvc.edu,abc@sjvc.edu
+San Jose City College,United States,sjcc.edu,abc@sjcc.edu
+Santa Ana College,United States,sac.edu,abc@sac.edu
+Santa Barbara City College,United States,sbcc.edu,abc@sbcc.edu
+Santa Monica College,United States,smc.edu,abc@smc.edu
+Santa Rosa Junior College,United States,santarosa.edu,abc@santarosa.edu
+Santiago Canyon College,United States,sccollege.edu,abc@sccollege.edu
+Shasta College,United States,shastacollege.edu,abc@shastacollege.edu
+Sierra College,United States,sierracollege.edu,abc@sierracollege.edu
+Skyline College,United States,skylinecollege.edu,abc@skylinecollege.edu
+Solano Community College,United States,solano.edu,abc@solano.edu
+Southwestern College (CA),United States,swccd.edu,abc@swccd.edu
+Taft College,United States,taftcollege.edu,abc@taftcollege.edu
+Ventura College,United States,venturacollege.edu,abc@venturacollege.edu
+Victor Valley College,United States,vvc.edu,abc@vvc.edu
+West Hills College-Coalinga,United States,westhillscollege.com,abc@westhillscollege.com
+West Los Angeles College,United States,wlac.edu,abc@wlac.edu
+West Valley College,United States,westvalley.edu,abc@westvalley.edu
+Woodland Community College,United States,wcc.yccd.edu,abc@wcc.yccd.edu
+Yuba College,United States,yc.yccd.edu,abc@yc.yccd.edu
+Aims Community College,United States,aims.edu,abc@aims.edu
+Arapahoe Community College,United States,arapahoe.edu,abc@arapahoe.edu
+Colorado Northwestern Community College,United States,cncc.edu,abc@cncc.edu
+Community College of Aurora,United States,ccaurora.edu,abc@ccaurora.edu
+Community College of Denver,United States,ccd.edu,abc@ccd.edu
+Front Range Community College,United States,frontrange.edu,abc@frontrange.edu
+Lamar Community College,United States,lamarcc.edu,abc@lamarcc.edu
+Morgan Community College,United States,morgancc.edu,abc@morgancc.edu
+Northeastern Junior College,United States,njc.edu,abc@njc.edu
+Otero Junior College,United States,www.ojc.edu,abc@www.ojc.edu
+Pikes Peak Community College,United States,ppcc.edu,abc@ppcc.edu
+Pueblo Community College,United States,pueblocc.edu,abc@pueblocc.edu
+Red Rocks Community College,United States,rrcc.edu,abc@rrcc.edu
+Trinidad State Junior College,United States,trinidadstate.edu,abc@trinidadstate.edu
+Asnuntuck Community College,United States,asnuntuck.edu,abc@asnuntuck.edu
+Capital Community College,United States,ccc.commnet.edu,abc@ccc.commnet.edu
+Gateway Community College,United States,gwcc.commnet.edu,abc@gwcc.commnet.edu
+Housatonic Community College,United States,hcc.commnet.edu,abc@hcc.commnet.edu
+Manchester Community College,United States,mcc.commnet.edu,abc@mcc.commnet.edu
+Middlesex Community College,United States,mxcc.commnet.edu,abc@mxcc.commnet.edu
+Naugatuck Valley Community College,United States,nv.edu,abc@nv.edu
+Northwestern Connecticut Community College,United States,nwcc.commnet.edu,abc@nwcc.commnet.edu
+Norwalk Community College,United States,ncc.commnet.edu,abc@ncc.commnet.edu
+Quinebaug Valley Community College,United States,qvcc.edu,abc@qvcc.edu
+Three Rivers Community College,United States,trcc.commnet.edu,abc@trcc.commnet.edu
+Tunxis Community College,United States,tunxis.edu,abc@tunxis.edu
+Delaware College of Art and Design,United States,dcad.edu,abc@dcad.edu
+Delaware Technical Community College,United States,dtcc.edu,abc@dtcc.edu
+Florida Keys Community College,United States,fkcc.edu,abc@fkcc.edu
+Hillsborough Community College,United States,hccfl.edu,abc@hccfl.edu
+North Florida Community College,United States,nfcc.edu,abc@nfcc.edu
+Pasco-Hernando Community College,United States,phcc.edu,abc@phcc.edu
+Tallahassee Community College,United States,tcc.fl.edu,abc@tcc.fl.edu
+Albany Technical College,United States,albanytech.edu,abc@albanytech.edu
+Andrew College,United States,andrewcollege.edu,abc@andrewcollege.edu
+Athens Technical College,United States,athenstech.edu,abc@athenstech.edu
+Atlanta Technical College,United States,atlantatech.edu,abc@atlantatech.edu
+Augusta Technical College,United States,augustatech.edu,abc@augustatech.edu
+Bainbridge State College,United States,bainbridge.edu,abc@bainbridge.edu
+Central Georgia Technical College,United States,centralgatech.edu,abc@centralgatech.edu
+Chattahoochee Technical College,United States,chattahoocheetech.edu,abc@chattahoocheetech.edu
+Columbus Technical College,United States,columbustech.edu,abc@columbustech.edu
+Darton State College,United States,darton.edu,abc@darton.edu
+Georgia Highlands College,United States,highlands.edu,abc@highlands.edu
+Georgia Military College,United States,gmc.cc.ga.us,abc@gmc.cc.ga.us
+Georgia Northwestern Technical College,United States,gntc.edu,abc@gntc.edu
+Georgia Perimeter College,United States,gpc.edu,abc@gpc.edu
+Georgia Piedmont Technical College,United States,gptc.edu,abc@gptc.edu
+Gwinnett Technical College,United States,gwinnetttech.edu,abc@gwinnetttech.edu
+Lanier Technical College,United States,laniertech.edu,abc@laniertech.edu
+Moultrie Technical College,United States,moultrietech.edu,abc@moultrietech.edu
+North Georgia Technical College,United States,northgatech.edu,abc@northgatech.edu
+Ogeechee Technical College,United States,ogeecheetech.edu,abc@ogeecheetech.edu
+Coastal Pines Technical College,United States,coastalpines.edu,abc@coastalpines.edu
+Savannah Technical College,United States,savannahtech.edu,abc@savannahtech.edu
+Southeastern Technical College,United States,southeasterntech.edu,abc@southeasterntech.edu
+Southern Crescent Technical College,United States,sctech.edu,abc@sctech.edu
+South Georgia Technical College,United States,southgatech.edu,abc@southgatech.edu
+Southwest Georgia Technical College,United States,southwestgatech.edu,abc@southwestgatech.edu
+West Georgia Technical College,United States,westgatech.edu,abc@westgatech.edu
+Wiregrass Georgia Technical College,United States,wiregrass.edu,abc@wiregrass.edu
+Hawaii Community College,United States,hawaii.hawaii.edu,abc@hawaii.hawaii.edu
+Honolulu Community College,United States,honolulu.hawaii.edu,abc@honolulu.hawaii.edu
+Kapiolani Community College,United States,kapiolani.hawaii.edu,abc@kapiolani.hawaii.edu
+Kauai Community College,United States,kauai.hawaii.edu,abc@kauai.hawaii.edu
+Leeward Community College,United States,leeward.hawaii.edu,abc@leeward.hawaii.edu
+Windward Community College,United States,windward.hawaii.edu,abc@windward.hawaii.edu
+College of Southern Idaho,United States,csi.edu,abc@csi.edu
+College of Western Idaho,United States,cwidaho.cc,abc@cwidaho.cc
+Eastern Idaho Technical College,United States,eitc.edu,abc@eitc.edu
+North Idaho College,United States,nic.edu,abc@nic.edu
+Black Hawk College,United States,bhc.edu,abc@bhc.edu
+Carl Sandburg College,United States,sandburg.edu,abc@sandburg.edu
+City Colleges of Chicago,United States,ccc.edu,abc@ccc.edu
+College of DuPage,United States,cod.edu,abc@cod.edu
+College of Lake County,United States,www.clcillinois.edu,abc@www.clcillinois.edu
+Danville Area Community College,United States,dacc.edu,abc@dacc.edu
+Elgin Community College,United States,elgin.edu,abc@elgin.edu
+Fox College,United States,foxcollege.edu,abc@foxcollege.edu
+Harper College,United States,harpercollege.edu,abc@harpercollege.edu
+Heartland Community College,United States,heartland.edu,abc@heartland.edu
+Highland Community College,United States,highland.edu,abc@highland.edu
+Illinois Central College,United States,icc.edu,abc@icc.edu
+Illinois Valley Community College,United States,ivcc.edu,abc@ivcc.edu
+John A Logan College,United States,jalc.edu,abc@jalc.edu
+John Wood Community College,United States,jwcc.edu,abc@jwcc.edu
+Joliet Junior College,United States,jjc.edu,abc@jjc.edu
+Kankakee Community College,United States,kcc.edu,abc@kcc.edu
+Kaskaskia College,United States,kaskaskia.edu,abc@kaskaskia.edu
+Kishwaukee College,United States,kishwaukeecollege.edu,abc@kishwaukeecollege.edu
+Lake Land College,United States,lakeland.cc.il.us,abc@lakeland.cc.il.us
+Le Cordon Bleu College of Culinary Arts-Chicago,United States,chefs.edu,abc@chefs.edu
+Lewis and Clark Community College,United States,lc.edu,abc@lc.edu
+Lincoln Land Community College,United States,llcc.edu,abc@llcc.edu
+MacCormac College,United States,maccormac.edu,abc@maccormac.edu
+McHenry County College,United States,mchenry.edu,abc@mchenry.edu
+Moraine Valley Community College,United States,morainevalley.edu,abc@morainevalley.edu
+Morton College,United States,morton.edu,abc@morton.edu
+Northwestern College-Chicago Campus,United States,northwesterncollege.edu,abc@northwesterncollege.edu
+Oakton Community College,United States,oakton.edu,abc@oakton.edu
+Parkland College,United States,parkland.edu,abc@parkland.edu
+Prairie State College,United States,prairiestate.edu,abc@prairiestate.edu
+Rend Lake College,United States,rlc.edu,abc@rlc.edu
+Richland Community College,United States,richland.edu,abc@richland.edu
+Rock Valley College,United States,rockvalleycollege.edu,abc@rockvalleycollege.edu
+Sauk Valley Community College,United States,svcc.edu,abc@svcc.edu
+Shawnee Community College,United States,shawneecc.edu,abc@shawneecc.edu
+Southeastern Illinois College,United States,sic.edu,abc@sic.edu
+South Suburban College,United States,ssc.edu,abc@ssc.edu
+Southwestern Illinois College,United States,swic.edu,abc@swic.edu
+Spoon River College,United States,src.edu,abc@src.edu
+Triton College,United States,triton.edu,abc@triton.edu
+Ancilla College,United States,ancilla.edu,abc@ancilla.edu
+Ivy Tech Community College,United States,ivytech.edu,abc@ivytech.edu
+Des Moines Area Community College,United States,dmacc.edu,abc@dmacc.edu
+Eastern Iowa Community College District,United States,eicc.edu,abc@eicc.edu
+Hawkeye Community College,United States,hawkeyecollege.edu,abc@hawkeyecollege.edu
+Indian Hills Community College,United States,indianhills.edu,abc@indianhills.edu
+Iowa Central Community College,United States,iowacentral.edu,abc@iowacentral.edu
+Iowa Lakes Community College,United States,iowalakes.edu,abc@iowalakes.edu
+Iowa Western Community College,United States,iwcc.edu,abc@iwcc.edu
+Kirkwood Community College,United States,kirkwood.edu,abc@kirkwood.edu
+Marshalltown Community College,United States,iavalley.edu,abc@iavalley.edu
+Northeast Iowa Community College,United States,nicc.edu,abc@nicc.edu
+North Iowa Area Community College,United States,niacc.edu,abc@niacc.edu
+Northwest Iowa Community College,United States,nwicc.edu,abc@nwicc.edu
+Southeastern Community College,United States,scciowa.edu,abc@scciowa.edu
+Southwestern Community College,United States,swcciowa.edu,abc@swcciowa.edu
+Western Iowa Tech Community College,United States,witcc.edu,abc@witcc.edu
+Allen County Community College,United States,allencc.edu,abc@allencc.edu
+Barton County Community College,United States,bartonccc.edu,abc@bartonccc.edu
+Butler Community College,United States,butlercc.edu,abc@butlercc.edu
+Cloud County Community College,United States,cloud.edu,abc@cloud.edu
+Coffeyville Community College,United States,coffeyville.edu,abc@coffeyville.edu
+Colby Community College,United States,colbycc.edu,abc@colbycc.edu
+Cowley County Community College,United States,cowley.edu,abc@cowley.edu
+Dodge City Community College,United States,dc3.edu,abc@dc3.edu
+Flint Hills Technical College,United States,fhtc.edu,abc@fhtc.edu
+Fort Scott Community College,United States,fortscott.edu,abc@fortscott.edu
+Garden City Community College,United States,gcccks.edu,abc@gcccks.edu
+Highland Community College,United States,highlandcc.edu,abc@highlandcc.edu
+Hutchinson Community College,United States,hutchcc.edu,abc@hutchcc.edu
+Independence Community College,United States,indycc.edu,abc@indycc.edu
+Johnson County Community College,United States,jccc.edu,abc@jccc.edu
+Kansas City Kansas Community College,United States,kckcc.edu,abc@kckcc.edu
+Labette Community College,United States,labette.edu,abc@labette.edu
+Manhattan Area Technical College,United States,manhattantech.edu,abc@manhattantech.edu
+Neosho County Community College,United States,neosho.edu,abc@neosho.edu
+North Central Kansas Technical College,United States,ncktc.edu,abc@ncktc.edu
+Northwest Kansas Technical College,United States,nwktc.edu,abc@nwktc.edu
+Pratt Community College,United States,prattcc.edu,abc@prattcc.edu
+Seward County Community College and Area Technical School,United States,sccc.edu,abc@sccc.edu
+Wichita Area Technical College,United States,watc.edu,abc@watc.edu
+Ashland Community and Technical College,United States,ashland.kctcs.edu,abc@ashland.kctcs.edu
+Big Sandy Community and Technical College,United States,bigsandy.kctcs.edu,abc@bigsandy.kctcs.edu
+Bluegrass Community and Technical College,United States,bluegrass.kctcs.edu,abc@bluegrass.kctcs.edu
+Elizabethtown Community and Technical College,United States,elizabethtown.kctcs.edu,abc@elizabethtown.kctcs.edu
+Galen College of Nursing-Louisville,United States,galencollege.edu,abc@galencollege.edu
+Gateway Community and Technical College,United States,gateway.kctcs.edu,abc@gateway.kctcs.edu
+Hazard Community and Technical College,United States,hazard.kctcs.edu,abc@hazard.kctcs.edu
+Henderson Community College,United States,hencc.kctcs.edu,abc@hencc.kctcs.edu
+Hopkinsville Community College,United States,hopkinsville.kctcs.edu,abc@hopkinsville.kctcs.edu
+Jefferson Community and Technical College,United States,jefferson.kctcs.edu,abc@jefferson.kctcs.edu
+Madisonville Community College,United States,madisonville.kctcs.edu,abc@madisonville.kctcs.edu
+Maysville Community and Technical College,United States,maysville.kctcs.edu,abc@maysville.kctcs.edu
+Owensboro Community and Technical College,United States,owensboro.kctcs.edu,abc@owensboro.kctcs.edu
+Somerset Community College,United States,somerset.kctcs.edu,abc@somerset.kctcs.edu
+Southcentral Kentucky Community and Technical College,United States,bowlinggreen.kctcs.edu,abc@bowlinggreen.kctcs.edu
+Southeast Kentucky Community and Technical College,United States,southeast.kctcs.edu,abc@southeast.kctcs.edu
+West Kentucky Community and Technical College,United States,westkentucky.kctcs.edu,abc@westkentucky.kctcs.edu
+Baton Rouge Community College,United States,mybrcc.edu,abc@mybrcc.edu
+Bossier Parish Community College,United States,bpcc.edu,abc@bpcc.edu
+Delgado Community College,United States,dcc.edu,abc@dcc.edu
+L E Fletcher Technical Community College,United States,fletcher.edu,abc@fletcher.edu
+Louisiana Delta Community College,United States,ladelta.edu,abc@ladelta.edu
+Louisiana State University-Eunice,United States,lsue.edu,abc@lsue.edu
+Nunez Community College,United States,nunez.edu,abc@nunez.edu
+River Parishes Community College,United States,rpcc.edu,abc@rpcc.edu
+Southern University at Shreveport,United States,susla.edu,abc@susla.edu
+South Louisiana Community College,United States,solacc.edu,abc@solacc.edu
+SOWELA Technical Community College,United States,sowela.edu,abc@sowela.edu
+Central Maine Community College,United States,cmcc.edu,abc@cmcc.edu
+Central Maine Medical Center College of Nursing and Health Professions,United States,cmmccollege.edu,abc@cmmccollege.edu
+Eastern Maine Community College,United States,emcc.edu,abc@emcc.edu
+Kennebec Valley Community College,United States,kvcc.me.edu,abc@kvcc.me.edu
+Northern Maine Community College,United States,nmcc.edu,abc@nmcc.edu
+Southern Maine Community College,United States,smccme.edu,abc@smccme.edu
+Washington County Community College,United States,wccc.me.edu,abc@wccc.me.edu
+York County Community College,United States,yccc.edu,abc@yccc.edu
+Allegany College of Maryland,United States,allegany.edu,abc@allegany.edu
+Baltimore City Community College,United States,bccc.edu,abc@bccc.edu
+Carroll Community College,United States,carrollcc.edu,abc@carrollcc.edu
+Cecil College,United States,cecil.edu,abc@cecil.edu
+College of Southern Maryland,United States,csmd.edu,abc@csmd.edu
+Garrett College,United States,garrettcollege.edu,abc@garrettcollege.edu
+Prince George's Community College,United States,pgcc.edu,abc@pgcc.edu
+Wor-Wic Community College,United States,worwic.edu,abc@worwic.edu
+Berkshire Community College,United States,berkshirecc.edu,abc@berkshirecc.edu
+Bristol Community College,United States,bristolcc.edu,abc@bristolcc.edu
+Bunker Hill Community College,United States,bhcc.mass.edu,abc@bhcc.mass.edu
+Cape Cod Community College,United States,capecod.edu,abc@capecod.edu
+Greenfield Community College,United States,gcc.mass.edu,abc@gcc.mass.edu
+Holyoke Community College,United States,hcc.edu,abc@hcc.edu
+Massachusetts Bay Community College,United States,massbay.edu,abc@massbay.edu
+Massasoit Community College,United States,massasoit.mass.edu,abc@massasoit.mass.edu
+Massasoit Community College,United States,massasoit.edu,abc@massasoit.edu
+Middlesex Community College,United States,middlesex.mass.edu,abc@middlesex.mass.edu
+Mount Wachusett Community College,United States,mwcc.edu,abc@mwcc.edu
+Northern Essex Community College,United States,necc.edu,abc@necc.edu
+Northern Essex Community College,United States,necc.mass.edu,abc@necc.mass.edu
+North Shore Community College,United States,northshore.edu,abc@northshore.edu
+Quincy College,United States,quincycollege.edu,abc@quincycollege.edu
+Quinsigamond Community College,United States,qcc.edu,abc@qcc.edu
+Roxbury Community College,United States,rcc.mass.edu,abc@rcc.mass.edu
+Springfield Technical Community College,United States,stcc.edu,abc@stcc.edu
+Urban College of Boston,United States,urbancollege.edu,abc@urbancollege.edu
+Alpena Community College,United States,alpenacc.edu,abc@alpenacc.edu
+Bay de Noc Community College,United States,baycollege.edu,abc@baycollege.edu
+Bay Mills Community College,United States,bmcc.edu,abc@bmcc.edu
+Delta College,United States,delta.edu,abc@delta.edu
+Glen Oaks Community College,United States,glenoaks.cc.mi.us,abc@glenoaks.cc.mi.us
+Gogebic Community College,United States,gogebic.edu,abc@gogebic.edu
+Grand Rapids Community College,United States,grcc.edu,abc@grcc.edu
+Henry Ford College,United States,hfcc.edu,abc@hfcc.edu
+Jackson College,United States,jccmi.edu,abc@jccmi.edu
+Kalamazoo Valley Community College,United States,kvcc.edu,abc@kvcc.edu
+Kellogg Community College,United States,kellogg.edu,abc@kellogg.edu
+Keweenaw Bay Ojibwa Community College,United States,kbocc.org,abc@kbocc.org
+Kirtland Community College,United States,kirtland.edu,abc@kirtland.edu
+Lake Michigan College,United States,lakemichigancollege.edu,abc@lakemichigancollege.edu
+Lansing Community College,United States,lcc.edu,abc@lcc.edu
+Macomb Community College,United States,macomb.edu,abc@macomb.edu
+Mid Michigan Community College,United States,midmich.edu,abc@midmich.edu
+Monroe County Community College,United States,monroeccc.edu,abc@monroeccc.edu
+Montcalm Community College,United States,montcalm.edu,abc@montcalm.edu
+Muskegon Community College,United States,muskegoncc.edu,abc@muskegoncc.edu
+North Central Michigan College,United States,ncmich.edu,abc@ncmich.edu
+Oakland Community College,United States,oaklandcc.edu,abc@oaklandcc.edu
+Saginaw Chippewa Tribal College,United States,sagchip.edu,abc@sagchip.edu
+Schoolcraft College,United States,schoolcraft.edu,abc@schoolcraft.edu
+Southwestern Michigan College,United States,swmich.edu,abc@swmich.edu
+St. Clair County Community College,United States,sc4.edu,abc@sc4.edu
+Washtenaw Community College,United States,wccnet.edu,abc@wccnet.edu
+Wayne County Community College District,United States,wcccd.edu,abc@wcccd.edu
+West Shore Community College,United States,westshore.edu,abc@westshore.edu
+Alexandria Technical & Community College,United States,alextech.edu,abc@alextech.edu
+Anoka-Ramsey Community College,United States,anokaramsey.edu,abc@anokaramsey.edu
+Anoka Technical College,United States,anokatech.edu,abc@anokatech.edu
+Central Lakes College-Brainerd,United States,www.clcmn.edu,abc@www.clcmn.edu
+Century College,United States,century.edu,abc@century.edu
+Dakota County Technical College,United States,dctc.edu,abc@dctc.edu
+Fond du Lac Tribal and Community College,United States,fdltcc.edu,abc@fdltcc.edu
+Hennepin Technical College,United States,hennepintech.edu,abc@hennepintech.edu
+Hibbing Community College,United States,hibbing.edu,abc@hibbing.edu
+Inver Hills Community College,United States,inverhills.edu,abc@inverhills.edu
+Itasca Community College,United States,itascacc.edu,abc@itascacc.edu
+Leech Lake Tribal College,United States,lltc.edu,abc@lltc.edu
+Mesabi Range Community and Technical College,United States,mesabirange.edu,abc@mesabirange.edu
+Minneapolis Community and Technical College,United States,minneapolis.edu,abc@minneapolis.edu
+Minnesota State College-Southeast Technical,United States,southeastmn.edu,abc@southeastmn.edu
+Minnesota State Community and Technical College,United States,minnesota.edu,abc@minnesota.edu
+Minnesota West Community and Technical College,United States,mnwest.edu,abc@mnwest.edu
+Normandale Community College,United States,normandale.edu,abc@normandale.edu
+North Hennepin Community College,United States,nhcc.edu,abc@nhcc.edu
+Northland Community and Technical College,United States,northlandcollege.edu,abc@northlandcollege.edu
+Northwest Technical College,United States,ntcmn.edu,abc@ntcmn.edu
+Pine Technical College,United States,pinetech.edu,abc@pinetech.edu
+Rainy River Community College,United States,rrcc.mnscu.edu,abc@rrcc.mnscu.edu
+Ridgewater College,United States,ridgewater.edu,abc@ridgewater.edu
+Riverland Community College,United States,riverland.edu,abc@riverland.edu
+Rochester Community and Technical College,United States,rctc.edu,abc@rctc.edu
+Saint Paul College,United States,saintpaul.edu,abc@saintpaul.edu
+South Central College,United States,southcentral.edu,abc@southcentral.edu
+St Cloud Technical and Community College,United States,sctcc.edu,abc@sctcc.edu
+Vermilion Community College,United States,vcc.edu,abc@vcc.edu
+White Earth Tribal and Community College,United States,wetcc.edu,abc@wetcc.edu
+Coahoma Community College,United States,coahomacc.edu,abc@coahomacc.edu
+Copiah-Lincoln Community College,United States,colin.edu,abc@colin.edu
+Olin College of Engineering,United States,students.olin.edu,abc@students.olin.edu
+East Central Community College,United States,eccc.edu,abc@eccc.edu
+East Mississippi Community College,United States,eastms.edu,abc@eastms.edu
+Hinds Community College,United States,hindscc.edu,abc@hindscc.edu
+Holmes Community College,United States,holmescc.edu,abc@holmescc.edu
+Itawamba Community College,United States,iccms.edu,abc@iccms.edu
+Jones County Junior College,United States,jcjc.edu,abc@jcjc.edu
+Meridian Community College,United States,meridiancc.edu,abc@meridiancc.edu
+Mississippi Delta Community College,United States,msdelta.edu,abc@msdelta.edu
+Mississippi Gulf Coast Community College,United States,mgccc.edu,abc@mgccc.edu
+Northeast Mississippi Community College,United States,nemcc.edu,abc@nemcc.edu
+Northwest Mississippi Community College,United States,northwestms.edu,abc@northwestms.edu
+Pearl River Community College,United States,prcc.edu,abc@prcc.edu
+Southwest Mississippi Community College,United States,smcc.edu,abc@smcc.edu
+Crowder College,United States,crowder.edu,abc@crowder.edu
+East Central College,United States,eastcentral.edu,abc@eastcentral.edu
+Jefferson College,United States,jeffco.edu,abc@jeffco.edu
+Linn State Technical College,United States,linnstate.edu,abc@linnstate.edu
+Mineral Area College,United States,mineralarea.edu,abc@mineralarea.edu
+Missouri State University,United States,missouristate.edu,abc@missouristate.edu
+Missouri State University-West Plains,United States,wp.missouristate.edu,abc@wp.missouristate.edu
+Moberly Area Community College,United States,macc.edu,abc@macc.edu
+North Central Missouri College,United States,ncmissouri.edu,abc@ncmissouri.edu
+Ozarks Technical Community College,United States,otc.edu,abc@otc.edu
+Southeast Missouri Hospital College of Nursing and Health Sciences,United States,southeastmissourihospitalcollege.edu,abc@southeastmissourihospitalcollege.edu
+State Fair Community College,United States,sfccmo.edu,abc@sfccmo.edu
+St Charles Community College,United States,stchas.edu,abc@stchas.edu
+Three Rivers Community College,United States,trcc.edu,abc@trcc.edu
+Wentworth Military Academy & Junior College,United States,wma.edu,abc@wma.edu
+Aaniiih Nakoda College,United States,ancollege.edu,abc@ancollege.edu
+Blackfeet Community College,United States,bfcc.edu,abc@bfcc.edu
+Chief Dull Knife College,United States,cdkc.edu,abc@cdkc.edu
+Dawson Community College,United States,dawson.edu,abc@dawson.edu
+Flathead Valley Community College,United States,fvcc.edu,abc@fvcc.edu
+Fort Peck Community College,United States,fpcc.edu,abc@fpcc.edu
+Great Falls College Montana State University,United States,gfcmsu.edu,abc@gfcmsu.edu
+Helena College University of Montana,United States,umhelena.edu,abc@umhelena.edu
+Little Big Horn College,United States,lbhc.edu,abc@lbhc.edu
+Miles Community College,United States,milescc.edu,abc@milescc.edu
+Stone Child College,United States,stonechild.edu,abc@stonechild.edu
+Central Community College,United States,cccneb.edu,abc@cccneb.edu
+Little Priest Tribal College,United States,littlepriest.edu,abc@littlepriest.edu
+Mid-Plains Community College,United States,mpcc.edu,abc@mpcc.edu
+Nebraska College of Technical Agriculture,United States,ncta.unl.edu,abc@ncta.unl.edu
+Nebraska Indian Community College,United States,thenicc.edu,abc@thenicc.edu
+Northeast Community College,United States,northeast.edu,abc@northeast.edu
+Southeast Community College Area,United States,southeast.edu,abc@southeast.edu
+Western Nebraska Community College,United States,wncc.edu,abc@wncc.edu
+Truckee Meadows Community College,United States,tmcc.edu,abc@tmcc.edu
+Great Bay Community College,United States,greatbay.edu,abc@greatbay.edu
+Lakes Region Community College,United States,lrcc.edu,abc@lrcc.edu
+Manchester Community College,United States,mccnh.edu,abc@mccnh.edu
+Nashua Community College,United States,nashuacc.edu,abc@nashuacc.edu
+NHTI-Concord's Community College,United States,nhti.edu,abc@nhti.edu
+River Valley Community College,United States,rivervalley.edu,abc@rivervalley.edu
+White Mountains Community College,United States,wmcc.edu,abc@wmcc.edu
+Assumption College for Sisters,United States,acs350.org,abc@acs350.org
+Atlantic Cape Community College,United States,atlantic.edu,abc@atlantic.edu
+Bergen Community College,United States,bergen.edu,abc@bergen.edu
+Brookdale Community College,United States,brookdalecc.edu,abc@brookdalecc.edu
+Camden County College,United States,camdencc.edu,abc@camdencc.edu
+County College of Morris,United States,ccm.edu,abc@ccm.edu
+County College of Morris,United States,student.ccm.edu,abc@student.ccm.edu
+Cumberland County College,United States,cccnj.edu,abc@cccnj.edu
+Essex County College,United States,essex.edu,abc@essex.edu
+Gloucester County College,United States,gccnj.edu,abc@gccnj.edu
+Hudson County Community College,United States,hccc.edu,abc@hccc.edu
+Middlesex County College,United States,middlesexcc.edu,abc@middlesexcc.edu
+Ocean County College,United States,ocean.edu,abc@ocean.edu
+Passaic County Community College,United States,pccc.edu,abc@pccc.edu
+Raritan Valley Community College,United States,raritanval.edu,abc@raritanval.edu
+Salem Community College,United States,salemcc.edu,abc@salemcc.edu
+Sussex County Community College,United States,sussex.edu,abc@sussex.edu
+Union County College,United States,ucc.edu,abc@ucc.edu
+Warren County Community College,United States,warren.edu,abc@warren.edu
+Central New Mexico Community College,United States,cnm.edu,abc@cnm.edu
+Clovis Community College,United States,clovis.edu,abc@clovis.edu
+Eastern New Mexico University-Roswell Campus,United States,roswell.enmu.edu,abc@roswell.enmu.edu
+Luna Community College,United States,luna.edu,abc@luna.edu
+Mesalands Community College,United States,mesalands.edu,abc@mesalands.edu
+New Mexico Junior College,United States,nmjc.edu,abc@nmjc.edu
+New Mexico Military Institute,United States,nmmi.edu,abc@nmmi.edu
+New Mexico State University-Alamogordo,United States,nmsua.edu,abc@nmsua.edu
+New Mexico State University-Carlsbad,United States,cavern.nmsu.edu,abc@cavern.nmsu.edu
+New Mexico State University-Dona Ana,United States,dabcc.nmsu.edu,abc@dabcc.nmsu.edu
+San Juan College,United States,sanjuancollege.edu,abc@sanjuancollege.edu
+Santa Fe Community College,United States,sfcc.edu,abc@sfcc.edu
+Southwestern Indian Polytechnic Institute,United States,sipi.edu,abc@sipi.edu
+Adirondack Community College,United States,www.sunyacc.edu,abc@www.sunyacc.edu
+American Academy of Dramatic Arts-New York,United States,aada.edu,abc@aada.edu
+ASA College,United States,asa.edu,abc@asa.edu
+Cayuga County Community College,United States,cayuga-cc.edu,abc@cayuga-cc.edu
+Clinton Community College,United States,clinton.edu,abc@clinton.edu
+Columbia-Greene Community College,United States,sunycgcc.edu,abc@sunycgcc.edu
+CUNY Borough of Manhattan Community College,United States,bmcc.cuny.edu,abc@bmcc.cuny.edu
+CUNY Bronx Community College,United States,bcc.cuny.edu,abc@bcc.cuny.edu
+CUNY Hostos Community College,United States,hostos.cuny.edu,abc@hostos.cuny.edu
+CUNY Kingsborough Community College,United States,kbcc.cuny.edu,abc@kbcc.cuny.edu
+CUNY LaGuardia Community College,United States,lagcc.cuny.edu,abc@lagcc.cuny.edu
+CUNY Queensborough Community College,United States,qcc.cuny.edu,abc@qcc.cuny.edu
+CUNY Baruch College,United States,baruch.cuny.edu,abc@baruch.cuny.edu
+CUNY Queens College,United States,qc.cuny.edu,abc@qc.cuny.edu
+CUNY City Tech,United States,citytech.cuny.edu,abc@citytech.cuny.edu
+CUNY City College of NY,United States,ccny.cuny.edu,abc@ccny.cuny.edu
+CUNY Brooklyn College,United States,brooklyn.cuny.edu,abc@brooklyn.cuny.edu
+CUNY Medgar Evers College,United States,mec.cuny.edu,abc@mec.cuny.edu
+CUNY College of Staten Island,United States,csi.cuny.edu,abc@csi.cuny.edu
+CUNY Macauly Honors College,United States,macauly.cuny.edu,abc@macauly.cuny.edu
+Dutchess Community College,United States,sunydutchess.edu,abc@sunydutchess.edu
+Finger Lakes Community College,United States,flcc.edu,abc@flcc.edu
+Fulton-Montgomery Community College,United States,fmcc.edu,abc@fmcc.edu
+Genesee Community College,United States,genesee.edu,abc@genesee.edu
+Herkimer County Community College,United States,herkimer.edu,abc@herkimer.edu
+Hudson Valley Community College,United States,hvcc.edu,abc@hvcc.edu
+Jamestown Community College,United States,sunyjcc.edu,abc@sunyjcc.edu
+Jefferson Community College,United States,sunyjefferson.edu,abc@sunyjefferson.edu
+Mohawk Valley Community College,United States,mvcc.edu,abc@mvcc.edu
+Monroe Community College,United States,monroecc.edu,abc@monroecc.edu
+Nassau Community College,United States,ncc.edu,abc@ncc.edu
+Niagara County Community College,United States,niagaracc.suny.edu,abc@niagaracc.suny.edu
+North Country Community College,United States,nccc.edu,abc@nccc.edu
+Onondaga Community College,United States,sunyocc.edu,abc@sunyocc.edu
+Orange County Community College,United States,sunyorange.edu,abc@sunyorange.edu
+Rockland Community College,United States,sunyrockland.edu,abc@sunyrockland.edu
+Saint Elizabeth College of Nursing,United States,secon.edu,abc@secon.edu
+Schenectady County Community College,United States,sunysccc.edu,abc@sunysccc.edu
+Suffolk County Community College,United States,www3.sunysuffolk.edu,abc@www3.sunysuffolk.edu
+Sullivan County Community College,United States,sunysullivan.edu,abc@sunysullivan.edu
+SUNY Broome Community College,United States,www.sunybroome.edu,abc@www.sunybroome.edu
+SUNY Westchester Community College,United States,sunywcc.edu,abc@sunywcc.edu
+Technical Career Institutes,United States,tcicollege.edu,abc@tcicollege.edu
+Tompkins Cortland Community College,United States,tc3.edu,abc@tc3.edu
+Ulster County Community College,United States,www.sunyulster.edu,abc@www.sunyulster.edu
+Alamance Community College,United States,alamancecc.edu,abc@alamancecc.edu
+Asheville-Buncombe Technical Community College,United States,abtech.edu,abc@abtech.edu
+Beaufort County Community College,United States,beaufortccc.edu,abc@beaufortccc.edu
+Bladen Community College,United States,bladencc.edu,abc@bladencc.edu
+Blue Ridge Community College,United States,blueridge.edu,abc@blueridge.edu
+Brunswick Community College,United States,brunswickcc.edu,abc@brunswickcc.edu
+Caldwell Community College and Technical Institute,United States,cccti.edu,abc@cccti.edu
+Cape Fear Community College,United States,cfcc.edu,abc@cfcc.edu
+Carolinas College of Health Sciences,United States,carolinascollege.edu,abc@carolinascollege.edu
+Carteret Community College,United States,carteret.edu,abc@carteret.edu
+Catawba Valley Community College,United States,cvcc.edu,abc@cvcc.edu
+Central Carolina Community College,United States,cccc.edu,abc@cccc.edu
+Central Piedmont Community College,United States,cpcc.edu,abc@cpcc.edu
+Cleveland Community College,United States,clevelandcc.edu,abc@clevelandcc.edu
+Coastal Carolina Community College,United States,coastalcarolina.edu,abc@coastalcarolina.edu
+College of the Albemarle,United States,albemarle.edu,abc@albemarle.edu
+Craven Community College,United States,cravencc.edu,abc@cravencc.edu
+Davidson County Community College,United States,davidsonccc.edu,abc@davidsonccc.edu
+Durham Technical Community College,United States,durhamtech.edu,abc@durhamtech.edu
+Edgecombe Community College,United States,edgecombe.edu,abc@edgecombe.edu
+Fayetteville Technical Community College,United States,faytechcc.edu,abc@faytechcc.edu
+Forsyth Technical Community College,United States,forsythtech.edu,abc@forsythtech.edu
+Gaston College,United States,gaston.edu,abc@gaston.edu
+Guilford Technical Community College,United States,gtcc.edu,abc@gtcc.edu
+Halifax Community College,United States,halifaxcc.edu,abc@halifaxcc.edu
+Haywood Community College,United States,haywood.edu,abc@haywood.edu
+Isothermal Community College,United States,isothermal.edu,abc@isothermal.edu
+James Sprunt Community College,United States,jamessprunt.edu,abc@jamessprunt.edu
+Johnston Community College,United States,johnstoncc.edu,abc@johnstoncc.edu
+Louisburg College,United States,louisburg.edu,abc@louisburg.edu
+Martin Community College,United States,martincc.edu,abc@martincc.edu
+Mayland Community College,United States,mayland.edu,abc@mayland.edu
+McDowell Technical Community College,United States,mcdowelltech.edu,abc@mcdowelltech.edu
+Mitchell Community College,United States,mitchellcc.edu,abc@mitchellcc.edu
+Montgomery Community College,United States,montgomery.edu,abc@montgomery.edu
+Nash Community College,United States,nashcc.edu,abc@nashcc.edu
+Pamlico Community College,United States,pamlicocc.edu,abc@pamlicocc.edu
+Piedmont Community College,United States,piedmontcc.edu,abc@piedmontcc.edu
+Pitt Community College,United States,pittcc.edu,abc@pittcc.edu
+Randolph Community College,United States,randolph.edu,abc@randolph.edu
+Richmond Community College,United States,richmondcc.edu,abc@richmondcc.edu
+Roanoke-Chowan Community College,United States,roanokechowan.edu,abc@roanokechowan.edu
+Robeson Community College,United States,robeson.edu,abc@robeson.edu
+Rockingham Community College,United States,rockinghamcc.edu,abc@rockinghamcc.edu
+Rowan-Cabarrus Community College,United States,rccc.edu,abc@rccc.edu
+Sampson Community College,United States,sampsoncc.edu,abc@sampsoncc.edu
+Sandhills Community College,United States,sandhills.edu,abc@sandhills.edu
+Southeastern Community College,United States,sccnc.edu,abc@sccnc.edu
+South Piedmont Community College,United States,spcc.edu,abc@spcc.edu
+Southwestern Community College,United States,southwesterncc.edu,abc@southwesterncc.edu
+Stanly Community College,United States,stanly.edu,abc@stanly.edu
+Surry Community College,United States,surry.edu,abc@surry.edu
+Tri-County Community College,United States,tricountycc.edu,abc@tricountycc.edu
+Wake Technical Community College,United States,waketech.edu,abc@waketech.edu
+Wayne Community College,United States,waynecc.edu,abc@waynecc.edu
+Western Piedmont Community College,United States,wpcc.edu,abc@wpcc.edu
+Wilkes Community College,United States,wilkescc.edu,abc@wilkescc.edu
+Wilson Community College,United States,wilsoncc.edu,abc@wilsoncc.edu
+Cankdeska Cikana Community College,United States,littlehoop.edu,abc@littlehoop.edu
+Dakota College at Bottineau,United States,dakotacollege.edu,abc@dakotacollege.edu
+Lake Region State College,United States,lrsc.edu,abc@lrsc.edu
+North Dakota State College of Science,United States,ndscs.edu,abc@ndscs.edu
+Williston State College,United States,willistonstate.edu,abc@willistonstate.edu
+Belmont College,United States,belmontcollege.edu,abc@belmontcollege.edu
+Central Ohio Technical College,United States,cotc.edu,abc@cotc.edu
+Chatfield College,United States,chatfield.edu,abc@chatfield.edu
+Cincinnati State Technical and Community College,United States,cincinnatistate.edu,abc@cincinnatistate.edu
+Clark State Community College,United States,clarkstate.edu,abc@clarkstate.edu
+Columbus State Community College,United States,cscc.edu,abc@cscc.edu
+Cuyahoga Community College District,United States,tri-c.edu,abc@tri-c.edu
+Davis College,United States,daviscollege.edu,abc@daviscollege.edu
+Eastern Gateway Community College,United States,egcc.edu,abc@egcc.edu
+Edison State Community College,United States,edisonohio.edu,abc@edisonohio.edu
+Hocking College,United States,hocking.edu,abc@hocking.edu
+James A Rhodes State College,United States,rhodesstate.edu,abc@rhodesstate.edu
+Lakeland Community College,United States,lakelandcc.edu,abc@lakelandcc.edu
+Lorain County Community College,United States,lorainccc.edu,abc@lorainccc.edu
+Marion Technical College,United States,mtc.edu,abc@mtc.edu
+North Central State College,United States,ncstatecollege.edu,abc@ncstatecollege.edu
+Northwest State Community College,United States,northweststate.edu,abc@northweststate.edu
+Ohio State University Agricultural Technical Institute,United States,ati.osu.edu,abc@ati.osu.edu
+Owens Community College,United States,owens.edu,abc@owens.edu
+Southern State Community College,United States,sscc.edu,abc@sscc.edu
+Stark State College,United States,starkstate.edu,abc@starkstate.edu
+Terra State Community College,United States,terra.edu,abc@terra.edu
+University of Akron Wayne College,United States,wayne.uakron.edu,abc@wayne.uakron.edu
+Washington State Community College,United States,wscc.edu,abc@wscc.edu
+Zane State College,United States,zanestate.edu,abc@zanestate.edu
+Carl Albert State College,United States,carlalbert.edu,abc@carlalbert.edu
+Connors State College,United States,connorsstate.edu,abc@connorsstate.edu
+Eastern Oklahoma State College,United States,eosc.edu,abc@eosc.edu
+Murray State College,United States,mscok.edu,abc@mscok.edu
+Northeastern Oklahoma A&M College,United States,neo.edu,abc@neo.edu
+Northern Oklahoma College,United States,noc.edu,abc@noc.edu
+Oklahoma City Community College,United States,occc.edu,abc@occc.edu
+Redlands Community College,United States,redlandscc.edu,abc@redlandscc.edu
+Rose State College,United States,rose.edu,abc@rose.edu
+Seminole State College,United States,sscok.edu,abc@sscok.edu
+Tulsa Community College,United States,tulsacc.edu,abc@tulsacc.edu
+Western Oklahoma State College,United States,wosc.edu,abc@wosc.edu
+Blue Mountain Community College,United States,bluecc.edu,abc@bluecc.edu
+Central Oregon Community College,United States,cocc.edu,abc@cocc.edu
+Chemeketa Community College,United States,chemeketa.edu,abc@chemeketa.edu
+Clackamas Community College,United States,clackamas.edu,abc@clackamas.edu
+Clatsop Community College,United States,clatsopcc.edu,abc@clatsopcc.edu
+Columbia Gorge Community College,United States,cgcc.cc.or.us,abc@cgcc.cc.or.us
+Klamath Community College,United States,klamathcc.edu,abc@klamathcc.edu
+Lane Community College,United States,lanecc.edu,abc@lanecc.edu
+Linn-Benton Community College,United States,linnbenton.edu,abc@linnbenton.edu
+Mt. Hood Community College,United States,mhcc.edu,abc@mhcc.edu
+Rogue Community College,United States,roguecc.edu,abc@roguecc.edu
+Southwestern Oregon Community College,United States,socc.edu,abc@socc.edu
+Tillamook Bay Community College,United States,tbcc.cc.or.us,abc@tbcc.cc.or.us
+Treasure Valley Community College,United States,tvcc.cc,abc@tvcc.cc
+Umpqua Community College,United States,umpqua.edu,abc@umpqua.edu
+Bucks County Community College,United States,bucks.edu,abc@bucks.edu
+Butler County Community College,United States,bc3.edu,abc@bc3.edu
+Community College of Allegheny County,United States,ccac.edu,abc@ccac.edu
+Community College of Beaver County,United States,ccbc.edu,abc@ccbc.edu
+Community College of Philadelphia,United States,ccp.edu,abc@ccp.edu
+Delaware County Community College,United States,dccc.edu,abc@dccc.edu
+Harcum College,United States,harcum.edu,abc@harcum.edu
+Harrisburg Area Community College-Harrisburg,United States,hacc.edu,abc@hacc.edu
+Lackawanna College,United States,lackawanna.edu,abc@lackawanna.edu
+Lehigh Carbon Community College,United States,lccc.edu,abc@lccc.edu
+Luzerne County Community College,United States,luzerne.edu,abc@luzerne.edu
+Manor College,United States,manor.edu,abc@manor.edu
+Montgomery County Community College,United States,mc3.edu,abc@mc3.edu
+Pennsylvania Highlands Community College,United States,pennhighlands.edu,abc@pennhighlands.edu
+Pennsylvania Institute of Technology,United States,pit.edu,abc@pit.edu
+Pittsburgh Technical Institute,United States,pti.edu,abc@pti.edu
+Reading Area Community College,United States,racc.edu,abc@racc.edu
+Thaddeus Stevens College of Technology,United States,stevenscollege.edu,abc@stevenscollege.edu
+University of Pittsburgh-Titusville,United States,upt.pitt.edu,abc@upt.pitt.edu
+Valley Forge Military Academy and College,United States,vfmac.edu,abc@vfmac.edu
+Westmoreland County Community College,United States,wccc.edu,abc@wccc.edu
+Community College of Rhode Island,United States,ccri.edu,abc@ccri.edu
+Central Carolina Technical College,United States,cctech.edu,abc@cctech.edu
+Denmark Technical College,United States,denmarktech.edu,abc@denmarktech.edu
+Florence-Darlington Technical College,United States,www.fdtc.edu,abc@www.fdtc.edu
+Greenville Technical College,United States,gvltec.edu,abc@gvltec.edu
+Horry-Georgetown Technical College,United States,hgtc.edu,abc@hgtc.edu
+Midlands Technical College,United States,midlandstech.edu,abc@midlandstech.edu
+Northeastern Technical College,United States,netc.edu,abc@netc.edu
+Orangeburg Calhoun Technical College,United States,octech.edu,abc@octech.edu
+Piedmont Technical College,United States,ptc.edu,abc@ptc.edu
+Spartanburg Community College,United States,sccsc.edu,abc@sccsc.edu
+Spartanburg Methodist College,United States,smcsc.edu,abc@smcsc.edu
+Technical College of the Lowcountry,United States,tcl.edu,abc@tcl.edu
+Tri-County Technical College,United States,tctc.edu,abc@tctc.edu
+Trident Technical College,United States,tridenttech.edu,abc@tridenttech.edu
+Williamsburg Technical College,United States,wiltech.edu,abc@wiltech.edu
+York Technical College,United States,yorktech.edu,abc@yorktech.edu
+Kilian Community College,United States,kilian.edu,abc@kilian.edu
+Lake Area Technical Institute,United States,lakeareatech.edu,abc@lakeareatech.edu
+Mitchell Technical Institute,United States,mitchelltech.edu,abc@mitchelltech.edu
+Sisseton Wahpeton College,United States,swc.tc,abc@swc.tc
+Southeast Technical Institute,United States,southeasttech.edu,abc@southeasttech.edu
+Western Dakota Technical Institute,United States,wdt.edu,abc@wdt.edu
+Chattanooga State Community College,United States,chattanoogastate.edu,abc@chattanoogastate.edu
+Cleveland State Community College,United States,clevelandstatecc.edu,abc@clevelandstatecc.edu
+Columbia State Community College,United States,columbiastate.edu,abc@columbiastate.edu
+Dyersburg State Community College,United States,dscc.edu,abc@dscc.edu
+Jackson State Community College,United States,jscc.edu,abc@jscc.edu
+John A Gupton College,United States,guptoncollege.edu,abc@guptoncollege.edu
+Motlow State Community College,United States,mscc.edu,abc@mscc.edu
+Northeast State Community College,United States,northeaststate.edu,abc@northeaststate.edu
+Pellissippi State Community College,United States,pstcc.edu,abc@pstcc.edu
+Roane State Community College,United States,roanestate.edu,abc@roanestate.edu
+Southwest Tennessee Community College,United States,southwest.tn.edu,abc@southwest.tn.edu
+Volunteer State Community College,United States,volstate.edu,abc@volstate.edu
+Walters State Community College,United States,ws.edu,abc@ws.edu
+Alvin Community College,United States,alvincollege.edu,abc@alvincollege.edu
+Amarillo College,United States,actx.edu,abc@actx.edu
+Angelina College,United States,angelina.edu,abc@angelina.edu
+Blinn College,United States,blinn.edu,abc@blinn.edu
+Brookhaven College,United States,brookhavencollege.edu,abc@brookhavencollege.edu
+Cedar Valley College,United States,cedarvalleycollege.edu,abc@cedarvalleycollege.edu
+Central Texas College,United States,ctcd.edu,abc@ctcd.edu
+Schreiner University,United States,schreiner.edu,abc@schreiner.edu
+Cisco College,United States,cisco.edu,abc@cisco.edu
+Clarendon College,United States,clarendoncollege.edu,abc@clarendoncollege.edu
+Coastal Bend College,United States,coastalbend.edu,abc@coastalbend.edu
+College of the Mainland,United States,com.edu,abc@com.edu
+Collin County Community College District,United States,collin.edu,abc@collin.edu
+Del Mar College,United States,delmar.edu,abc@delmar.edu
+Eastfield College,United States,eastfieldcollege.edu,abc@eastfieldcollege.edu
+El Centro College,United States,elcentrocollege.edu,abc@elcentrocollege.edu
+El Paso Community College,United States,epcc.edu,abc@epcc.edu
+Frank Phillips College,United States,fpctx.edu,abc@fpctx.edu
+Galveston College,United States,gc.edu,abc@gc.edu
+Grayson College,United States,grayson.edu,abc@grayson.edu
+Hill College,United States,hillcollege.edu,abc@hillcollege.edu
+Houston Community College,United States,hccs.edu,abc@hccs.edu
+Howard College,United States,howardcollege.edu,abc@howardcollege.edu
+Jacksonville College-Main Campus,United States,jacksonville-college.edu,abc@jacksonville-college.edu
+Kilgore College,United States,kilgore.edu,abc@kilgore.edu
+Lamar Institute of Technology,United States,lit.edu,abc@lit.edu
+Lamar State College-Orange,United States,lsco.edu,abc@lsco.edu
+Lamar State College-Port Arthur,United States,lamarpa.edu,abc@lamarpa.edu
+Laredo Community College,United States,laredo.edu,abc@laredo.edu
+Lee College,United States,lee.edu,abc@lee.edu
+Lone Star College System,United States,lonestar.edu,abc@lonestar.edu
+McLennan Community College,United States,mclennan.edu,abc@mclennan.edu
+Navarro College,United States,navarrocollege.edu,abc@navarrocollege.edu
+North Central Texas College,United States,nctc.edu,abc@nctc.edu
+Northeast Texas Community College,United States,ntcc.edu,abc@ntcc.edu
+North Lake College,United States,northlakecollege.edu,abc@northlakecollege.edu
+Odessa College,United States,odessa.edu,abc@odessa.edu
+Alamo Colleges District,United States,alamo.edu,abc@alamo.edu
+Panola College,United States,panola.edu,abc@panola.edu
+Paris Junior College,United States,parisjc.edu,abc@parisjc.edu
+Ranger College,United States,rangercollege.edu,abc@rangercollege.edu
+Richland College,United States,richlandcollege.edu,abc@richlandcollege.edu
+South Plains College,United States,southplainscollege.edu,abc@southplainscollege.edu
+Southwest Texas Junior College,United States,swtjc.net,abc@swtjc.net
+Temple College,United States,templejc.edu,abc@templejc.edu
+Texarkana College,United States,texarkanacollege.edu,abc@texarkanacollege.edu
+Texas State Technical College-Harlingen,United States,harlingen.tstc.edu,abc@harlingen.tstc.edu
+Texas State Technical College-Marshall,United States,marshall.tstc.edu,abc@marshall.tstc.edu
+Texas State Technical College-Waco,United States,waco.tstc.edu,abc@waco.tstc.edu
+Texas State Technical College-West Texas,United States,westtexas.tstc.edu,abc@westtexas.tstc.edu
+Trinity Valley Community College,United States,tvcc.edu,abc@tvcc.edu
+Tyler Junior College,United States,www.tjc.edu,abc@www.tjc.edu
+Vernon College,United States,vernoncollege.edu,abc@vernoncollege.edu
+Victoria College,United States,victoriacollege.edu,abc@victoriacollege.edu
+Weatherford College,United States,wc.edu,abc@wc.edu
+Western Texas College,United States,wtc.edu,abc@wtc.edu
+Wharton County Junior College,United States,wcjc.edu,abc@wcjc.edu
+Latter-day Saints Business College,United States,ldsbc.edu,abc@ldsbc.edu
+Salt Lake Community College,United States,slcc.edu,abc@slcc.edu
+Community College of Vermont,United States,ccv.edu,abc@ccv.edu
+Blue Ridge Community College,United States,brcc.edu,abc@brcc.edu
+Central Virginia Community College,United States,cvcc.vccs.edu,abc@cvcc.vccs.edu
+Dabney S Lancaster Community College,United States,dslcc.edu,abc@dslcc.edu
+Danville Community College,United States,dcc.vccs.edu,abc@dcc.vccs.edu
+Eastern Shore Community College,United States,es.vccs.edu,abc@es.vccs.edu
+Germanna Community College,United States,germanna.edu,abc@germanna.edu
+John Tyler Community College,United States,jtcc.edu,abc@jtcc.edu
+J Sargeant Reynolds Community College,United States,reynolds.edu,abc@reynolds.edu
+Lord Fairfax Community College,United States,lfcc.edu,abc@lfcc.edu
+Mountain Empire Community College,United States,mecc.edu,abc@mecc.edu
+New River Community College,United States,nr.edu,abc@nr.edu
+Northern Virginia Community College,United States,nvcc.edu,abc@nvcc.edu
+Patrick Henry Community College,United States,patrickhenry.edu,abc@patrickhenry.edu
+Paul D Camp Community College,United States,pdc.edu,abc@pdc.edu
+Piedmont Virginia Community College,United States,pvcc.edu,abc@pvcc.edu
+Rappahannock Community College,United States,rappahannock.edu,abc@rappahannock.edu
+Richard Bland College of the College of William and Mary,United States,rbc.edu,abc@rbc.edu
+Southside Virginia Community College,United States,southside.edu,abc@southside.edu
+Southwest Virginia Community College,United States,sw.edu,abc@sw.edu
+Thomas Nelson Community College,United States,tncc.edu,abc@tncc.edu
+Tidewater Community College,United States,tcc.edu,abc@tcc.edu
+Virginia Highlands Community College,United States,vhcc.edu,abc@vhcc.edu
+Virginia Western Community College,United States,virginiawestern.edu,abc@virginiawestern.edu
+Wytheville Community College,United States,wcc.vccs.edu,abc@wcc.vccs.edu
+Bates Technical College,United States,bates.ctc.edu,abc@bates.ctc.edu
+Bellingham Technical College,United States,btc.ctc.edu,abc@btc.ctc.edu
+Big Bend Community College,United States,bigbend.edu,abc@bigbend.edu
+Cascadia Community College,United States,cascadia.edu,abc@cascadia.edu
+Clark College,United States,clark.edu,abc@clark.edu
+Clover Park Technical College,United States,cptc.edu,abc@cptc.edu
+Edmonds Community College,United States,edcc.edu,abc@edcc.edu
+Everett Community College,United States,everettcc.edu,abc@everettcc.edu
+Grays Harbor College,United States,ghc.edu,abc@ghc.edu
+Green River Community College,United States,greenriver.edu,abc@greenriver.edu
+Highline Community College,United States,highline.edu,abc@highline.edu
+Lower Columbia College,United States,lowercolumbia.edu,abc@lowercolumbia.edu
+Pierce College at Puyallup,United States,pierce.ctc.edu,abc@pierce.ctc.edu
+Renton Technical College,United States,rtc.edu,abc@rtc.edu
+Shoreline Community College,United States,shoreline.edu,abc@shoreline.edu
+Skagit Valley College,United States,skagit.edu,abc@skagit.edu
+South Puget Sound Community College,United States,spscc.ctc.edu,abc@spscc.ctc.edu
+Spokane Community College,United States,scc.spokane.edu,abc@scc.spokane.edu
+Spokane Falls Community College,United States,spokanefalls.edu,abc@spokanefalls.edu
+Tacoma Community College,United States,tacomacc.edu,abc@tacomacc.edu
+Walla Walla Community College,United States,wwcc.edu,abc@wwcc.edu
+Wenatchee Valley College,United States,wvc.edu,abc@wvc.edu
+Whatcom Community College,United States,whatcom.ctc.edu,abc@whatcom.ctc.edu
+Yakima Valley Community College,United States,yvcc.edu,abc@yvcc.edu
+Blue Ridge Community and Technical College,United States,blueridgectc.edu,abc@blueridgectc.edu
+Bridgemont Community and Technical College,United States,bridgemont.edu,abc@bridgemont.edu
+Eastern West Virginia Community and Technical College,United States,eastern.wvnet.edu,abc@eastern.wvnet.edu
+Huntington Junior College,United States,huntingtonjuniorcollege.edu,abc@huntingtonjuniorcollege.edu
+Kanawha Valley Community and Technical College,United States,kvctc.edu,abc@kvctc.edu
+Mountwest Community and Technical College,United States,mctc.edu,abc@mctc.edu
+New River Community and Technical College,United States,newriver.edu,abc@newriver.edu
+Pierpont Community and Technical College,United States,pierpont.edu,abc@pierpont.edu
+Southern West Virginia Community and Technical College,United States,southernwv.edu,abc@southernwv.edu
+West Virginia Northern Community College,United States,wvncc.edu,abc@wvncc.edu
+Blackhawk Technical College,United States,blackhawk.edu,abc@blackhawk.edu
+Chippewa Valley Technical College,United States,cvtc.edu,abc@cvtc.edu
+Fox Valley Technical College,United States,fvtc.edu,abc@fvtc.edu
+Gateway Technical College,United States,gtc.edu,abc@gtc.edu
+Lac Courte Oreilles Ojibwa Community College,United States,lco.edu,abc@lco.edu
+Lakeshore Technical College,United States,gotoltc.edu,abc@gotoltc.edu
+Madison Area Technical College,United States,madisoncollege.edu,abc@madisoncollege.edu
+Mid-State Technical College,United States,mstc.edu,abc@mstc.edu
+Milwaukee Area Technical College,United States,matc.edu,abc@matc.edu
+Moraine Park Technical College,United States,morainepark.edu,abc@morainepark.edu
+Nicolet Area Technical College,United States,nicoletcollege.edu,abc@nicoletcollege.edu
+Northcentral Technical College,United States,ntc.edu,abc@ntc.edu
+Northeast Wisconsin Technical College,United States,nwtc.edu,abc@nwtc.edu
+Southwest Wisconsin Technical College,United States,swtc.edu,abc@swtc.edu
+University of Wisconsin Colleges,United States,uwc.edu,abc@uwc.edu
+Waukesha County Technical College,United States,wctc.edu,abc@wctc.edu
+Western Technical College,United States,westerntc.edu,abc@westerntc.edu
+Wisconsin Indianhead Technical College,United States,witc.edu,abc@witc.edu
+Casper College,United States,caspercollege.edu,abc@caspercollege.edu
+Central Wyoming College,United States,cwc.edu,abc@cwc.edu
+Eastern Wyoming College,United States,ewc.wy.edu,abc@ewc.wy.edu
+Laramie County Community College,United States,lccc.wy.edu,abc@lccc.wy.edu
+Northwest College,United States,northwestcollege.edu,abc@northwestcollege.edu
+Sheridan College,United States,sheridan.edu,abc@sheridan.edu
+Western Wyoming Community College,United States,wwcc.wy.edu,abc@wwcc.wy.edu
+Trinity Bible College & Graduate School,United States,trinitybiblecollege.edu,abc@trinitybiblecollege.edu
+University of Michigan-Flint,United States,umflint.edu,abc@umflint.edu
+Kenai Peninsula College,United States,kpc.alaska.edu,abc@kpc.alaska.edu
+Mat-Su College,United States,matsu.alaska.edu,abc@matsu.alaska.edu
+Kodiak College,United States,koc.alaska.edu,abc@koc.alaska.edu
+Alaska Pacific University,United States,alaskapacific.edu,abc@alaskapacific.edu
+Wayland Baptist University,United States,wbu.edu,abc@wbu.edu
+Polk State College,United States,polk.edu,abc@polk.edu
+Brescia University,United States,brescia.edu,abc@brescia.edu
+Rogers State University,United States,rsu.edu,abc@rsu.edu
+Neumann University,United States,neumann.edu,abc@neumann.edu
+Savannah College of Art and Design,United States,scad.edu,abc@scad.edu
+Savannah College of Art and Design,United States,student.scad.edu,abc@student.scad.edu
+Ashford University,United States,ashford.edu,abc@ashford.edu
+McPherson College,United States,mcpherson.edu,abc@mcpherson.edu
+Community College System of New Hampshire,United States,ccsnh.edu,abc@ccsnh.edu
+Defiance College,United States,defiance.edu,abc@defiance.edu
+Medical University of South Carolina,United States,musc.edu,abc@musc.edu
+Gulf Coast State College,United States,gulfcoast.edu,abc@gulfcoast.edu
+Academy of Art University,United States,academyart.edu,abc@academyart.edu
+Academy of Art University,United States,art.edu,abc@art.edu
+Lenoir-Rhyne University,United States,lr.edu,abc@lr.edu
+Point Park University,United States,pointpark.edu,abc@pointpark.edu
+Northwood University,United States,northwood.edu,abc@northwood.edu
+Clark Atlanta University,United States,cau.edu,abc@cau.edu
+Morehouse,United States,morehouse.edu,abc@morehouse.edu
+University of St. Augustine for Health Sciences,United States,usa.edu,abc@usa.edu
+Gwynedd Mercy University,United States,gmercyu.edu,abc@gmercyu.edu
+California Institute of the Arts,United States,calarts.edu,abc@calarts.edu
+Des Moines University,United States,dmu.edu,abc@dmu.edu
+Utah Tech University,United States,utahtech.edu,abc@utahtech.edu
+Midwestern University,United States,midwestern.edu,abc@midwestern.edu
+Illinois Wesleyan University,United States,iwu.edu,abc@iwu.edu
+Maryville College,United States,maryvillecollege.edu,abc@maryvillecollege.edu
+Endicott College,United States,endicott.edu,abc@endicott.edu
+The University of Alabama,United States,ua.edu,abc@ua.edu
+Great Basin College,United States,gbcnv.edu,abc@gbcnv.edu
+Einsteinmed,United States,einsteinmed.edu,abc@einsteinmed.edu
+Miami Dade College,United States,mdc.edu,abc@mdc.edu
+Florida SouthWestern State College,United States,fsw.edu,abc@fsw.edu
+Bishop McNamara High School,United States,bmhs.org,abc@bmhs.org
+Chaminade University of Honolulu,United States,chaminade.edu,abc@chaminade.edu
+Dalton State College,United States,daltonstate.edu,abc@daltonstate.edu
+Ojai Unified School District,United States,ojaiusd.org,abc@ojaiusd.org
+Bismark State College,United States,bismarckstate.edu,abc@bismarckstate.edu
+Quadrat Academy,United States,quadratacademy.com,abc@quadratacademy.com
+University of North Alabama,United States,una.edu,abc@una.edu
+Bellevue College,United States,bellevuecollege.edu,abc@bellevuecollege.edu
+CUNY Lehman College,United States,lehman.cuny.edu,abc@lehman.cuny.edu
+CUNY John Jay College of Criminal Justice,United States,jjay.cuny.edu,abc@jjay.cuny.edu
+Hunter College CUNY,United States,hunter.cuny.edu,abc@hunter.cuny.edu
+CUNY York College,United States,york.cuny.edu,abc@york.cuny.edu
+Pennsylvania State University - Harrisburg,United States,harrisburg.psu.edu,abc@harrisburg.psu.edu
+Alcorn State University,United States,alcorn.edu,abc@alcorn.edu
+Allen University,United States,allenuniversity.edu,abc@allenuniversity.edu
+American Baptist College,United States,abcnash.edu,abc@abcnash.edu
+"Arkansas at Pine Bluff, University of",United States,uapb.edu,abc@uapb.edu
+Arkansas Baptist College,United States,arkansasbaptist.edu,abc@arkansasbaptist.edu
+Barber-Scotia College,United States,b-sc.edu,abc@b-sc.edu
+Benedict College,United States,benedict.edu,abc@benedict.edu
+Bennett College,United States,bennet.edu,abc@bennet.edu
+Bethune-Cookman University,United States,cookman.edu,abc@cookman.edu
+Bluefield State College,United States,bluefieldstate.edu,abc@bluefieldstate.edu
+Carver College,United States,carver.edu,abc@carver.edu
+Central State University,United States,centralstate.edu,abc@centralstate.edu
+Claflin University,United States,claflin.edu,abc@claflin.edu
+Clinton College,United States,clintoncollege.edu,abc@clintoncollege.edu
+Edward Waters University,United States,ewc.edu,abc@ewc.edu
+Florida Memorial University,United States,fmuniv.edu,abc@fmuniv.edu
+Fort Valley State University,United States,fvsu.edu,abc@fvsu.edu
+Gasden State Community College,United States,gadsenstate.edu,abc@gadsenstate.edu
+Grambling State University,United States,gram.edu,abc@gram.edu
+Harris-Stowe State University,United States,hssu.edu,abc@hssu.edu
+Hood Theological,United States,hoodseminary.edu,abc@hoodseminary.edu
+Huston-Tillotson University,United States,htu.edu,abc@htu.edu
+Interdenominational Theological Center,United States,itc.edu,abc@itc.edu
+Jarvis Christian College,United States,jarvis.edu,abc@jarvis.edu
+Johnson C Smith Theological Seminary *,United States,smithseminary.org,abc@smithseminary.org
+Kentucky State University,United States,kysu.edu,abc@kysu.edu
+Knoxville College,United States,knoxvillecollege.edu,abc@knoxvillecollege.edu
+Lane College,United States,lanecollege.edu,abc@lanecollege.edu
+Lawson State Community College,United States,lawsonstate.edu,abc@lawsonstate.edu
+LeMoyne-Owen College,United States,loc.edu,abc@loc.edu
+Livingstone College,United States,livingstone.edu,abc@livingstone.edu
+Meharry Medical College,United States,mmc.edu,abc@mmc.edu
+Miles College,United States,miles.edu,abc@miles.edu
+Miles School of Law,United States,mlaw.edu,abc@mlaw.edu
+Morehouse School of Medicine,United States,msm.edu,abc@msm.edu
+Morris Brown College,United States,morrisbrown.edu,abc@morrisbrown.edu
+Morris College,United States,morris.edu,abc@morris.edu
+Paine College,United States,paine.edu,abc@paine.edu
+Paul Quinn College,United States,paulquinn.edu,abc@paulquinn.edu
+Philander Smith College,United States,philander.edu,abc@philander.edu
+Rust College,United States,rustcollege.edu,abc@rustcollege.edu
+Savannah State University,United States,savannahstate.edu,abc@savannahstate.edu
+Selma University,United States,selmauniversity.edu,abc@selmauniversity.edu
+Shaw University,United States,shawu.edu,abc@shawu.edu
+Simmons College of Kentucky,United States,simmonscollegeky.edu,abc@simmonscollegeky.edu
+South Carolina State University,United States,scsu.edu,abc@scsu.edu
+Southern University at New Orleans,United States,suno.edu,abc@suno.edu
+Southwestern Christian College,United States,swcc.edu,abc@swcc.edu
+St. Augustine's University,United States,st-aug.edu,abc@st-aug.edu
+Stillman College,United States,stillman.edu,abc@stillman.edu
+Talladega College,United States,talladega.edu,abc@talladega.edu
+Texas College,United States,texascollege.edu,abc@texascollege.edu
+Tougaloo College,United States,tougaloo.edu,abc@tougaloo.edu
+Virginia Union University,United States,vuu.edu,abc@vuu.edu
+Virginia University of Lynchburg,United States,vul.edu,abc@vul.edu
+Voorhees University,United States,voorhees.edu,abc@voorhees.edu
+West Virginia State University,United States,wvstate.edu,abc@wvstate.edu
+Wiley College,United States,wileyc.edu,abc@wileyc.edu
+Winston-Salem State University,United States,wssu.edu,abc@wssu.edu
+Unity Environmental College,United States,unity.edu,abc@unity.edu
+Catawba College,United States,catawba.edu,abc@catawba.edu
+Texas A&M University-Texarkana,United States,ace.tamut.edu,abc@ace.tamut.edu
+Belhaven University,United States,belhaven.edu,abc@belhaven.edu
+Berry College,United States,berry.edu,abc@berry.edu
+Bloomfield College,United States,bloomfield.edu,abc@bloomfield.edu
+Bridgewater State University,United States,bridgew.edu,abc@bridgew.edu
+Cabrini University,United States,cabrini.edu,abc@cabrini.edu
+Caldwell University,United States,caldwell.edu,abc@caldwell.edu
+Cornell College,United States,cornellcollege.edu,abc@cornellcollege.edu
+Covenant College,United States,covenant.edu,abc@covenant.edu
+Chicago State University,United States,csu.edu,abc@csu.edu
+California State University,United States,csueastbay.edu,abc@csueastbay.edu
+Colorado State University-Pueblo,United States,csupueblo.edu,abc@csupueblo.edu
+Bay Atlantic University,United States,bau.edu,abc@bau.edu
+Siena College,United States,siena.edu,abc@siena.edu
+Texas Wesleyan University,United States,txwes.edu,abc@txwes.edu
+Island Drafting & Technical Institute,United States,idti.edu,abc@idti.edu
+Bay Path University,United States,baypath.edu,abc@baypath.edu
+Snow College,United States,snow.edu,abc@snow.edu
+State Center Community College District,United States,scccd.edu,abc@scccd.edu
+Davidson-Davie Community College,United States,davidsondavie.edu,abc@davidsondavie.edu
+Berkeley College,United States,berkeleycollege.edu,abc@berkeleycollege.edu
+Schiller International University,United States,schiller.edu,abc@schiller.edu
+Greensboro College,United States,greensboro.edu,abc@greensboro.edu
+Verde Valley School,United States,vvsaz.org,abc@vvsaz.org
+Oglethorpe University,United States,oglethorpe.edu,abc@oglethorpe.edu
+Detroit School of Technology,United States,dsdt.edu,abc@dsdt.edu
+North Central College,United States,northcentralcollege.edu,abc@northcentralcollege.edu
+The University of Montana Western,United States,umwestern.edu,abc@umwestern.edu
+Queens University of Charlotte,United States,queens.edu,abc@queens.edu
+Lincoln Memorial University,United States,lmunet.edu,abc@lmunet.edu
+Greenville University,United States,greenville.edu,abc@greenville.edu
+State University of New York at Oneonta,United States,suny.oneonta.edu,abc@suny.oneonta.edu
+Northwestern Michigan College,United States,nmc.edu,abc@nmc.edu
+Adrian College,United States,adrian.edu,abc@adrian.edu
+Concordia University Wisconsin,United States,cuw.edu,abc@cuw.edu
+Delaware Valley University,United States,delval.edu,abc@delval.edu
+Davis & Elkins College,United States,dewv.edu,abc@dewv.edu
+Eckerd College,United States,eckerd.edu,abc@eckerd.edu
+University of South Carolina Upstate,United States,email.uscupstate.edu,abc@email.uscupstate.edu
+Fairfield University,United States,fairfield.edu,abc@fairfield.edu
+Foothill-De Anza Community College District,United States,fhda.edu,abc@fhda.edu
+Francis Marion University,United States,g.fmarion.edu,abc@g.fmarion.edu
+George Fox University,United States,georgefox.edu,abc@georgefox.edu
+Grand View University,United States,grandview.edu,abc@grandview.edu
+Abraham Baldwin Agricultural College,United States,abac.edu,abc@abac.edu
+Abraham Baldwin Agricultural College,United States,stallions.abac.edu,abc@stallions.abac.edu
+Capital University,United States,capital.edu,abc@capital.edu
+State University of New York College at Oneonta,United States,oneonta.edu,abc@oneonta.edu
+University of Mount Olive,United States,umo.edu,abc@umo.edu
+The University of Olivet,United States,olivetcollege.edu,abc@olivetcollege.edu
+Westminster University,United States,westminsteru.edu,abc@westminsteru.edu
+Dominican University,United States,dom.edu,abc@dom.edu
+Claremont Colleges,United States,claremont.edu,abc@claremont.edu
+Rowan College at Burlington County,United States,rcbc.edu,abc@rcbc.edu
+Thomas Jefferson University,United States,jefferson.edu,abc@jefferson.edu
+Aspen University,United States,aspen.edu,abc@aspen.edu
+California University of Science and Medicine,United States,cusm.edu,abc@cusm.edu
+CUNY School of Law,United States,law.cuny.edu,abc@law.cuny.edu
+Doane University,United States,doane.edu,abc@doane.edu
+Eastern Virginia Medical School,United States,evms.edu,abc@evms.edu
+Elms College,United States,elms.edu,abc@elms.edu
+Estrella Mountain Community College,United States,estrellamountain.edu,abc@estrellamountain.edu
+Florida Southern College,United States,flsouthern.edu,abc@flsouthern.edu
+Franklin Pierce University,United States,franklinpierce.edu,abc@franklinpierce.edu
+Kansas City University,United States,kansascity.edu,abc@kansascity.edu
+Loyola University New Orleans,United States,loyno.edu,abc@loyno.edu
+Maryland Institute College of Arts,United States,mica.edu,abc@mica.edu
+Merrimack College,United States,merrimack.edu,abc@merrimack.edu
+Nebraska Wesleyan University,United States,nebrwesleyan.edu,abc@nebrwesleyan.edu
+New York Medical College,United States,nymc.edu,abc@nymc.edu
+Pacific Northwest University of Health Sciences,United States,pnwu.edu,abc@pnwu.edu
+Rowan College of South Jersey,United States,rcsj.edu,abc@rcsj.edu
+Sofia University,United States,sofia.edu,abc@sofia.edu
+SUNY Downstate Health Sciences University,United States,downstate.edu,abc@downstate.edu
+"University of South Carolina, Beaufort",United States,uscb.edu,abc@uscb.edu
+Vermont Law School,United States,vermontlaw.edu,abc@vermontlaw.edu
+Western Nevada College,United States,wnc.edu,abc@wnc.edu
+Western University of Health Sciences,United States,westernu.edu,abc@westernu.edu
+St. Mary's University,United States,stmarytx.edu,abc@stmarytx.edu
+South Florida State College,United States,southflorida.edu,abc@southflorida.edu
+Alvernia University,United States,alvernia.edu,abc@alvernia.edu
+Hellenic American University,United States,hauniv.edu,abc@hauniv.edu
+University of Holy Cross,United States,uhcno.edu,abc@uhcno.edu
+University of Pikeville,United States,upike.edu,abc@upike.edu
+Stonehill College,United States,stonehill.edu,abc@stonehill.edu
+Southern Virginia University,United States,svu.edu,abc@svu.edu
+Louisiana State University - Shreveport,United States,lsus.edu,abc@lsus.edu
+Wingate University,United States,wingate.edu,abc@wingate.edu
+California College of the Arts,United States,cca.edu,abc@cca.edu
+Dallas College,United States,dallascollege.edu,abc@dallascollege.edu
+University of North Texas at Dallas,United States,untdallas.edu,abc@untdallas.edu
