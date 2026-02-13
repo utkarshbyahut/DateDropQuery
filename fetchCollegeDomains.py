@@ -5,6 +5,7 @@ import json
 import sys
 from pathlib import Path
 from urllib.request import urlopen, Request
+# What
 
 HIPO_RAW_JSON = (
     "https://raw.githubusercontent.com/Hipo/university-domains-list/master/"
