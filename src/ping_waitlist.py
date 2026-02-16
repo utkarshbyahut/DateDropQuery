@@ -200,7 +200,7 @@ def append_result(out_csv: Path, row: Dict[str, str], email_used: str,
 def main():
     ap = argparse.ArgumentParser(description="Ping waitlist endpoint for a list of university email domains.")
     ap.add_argument("--in", dest="inp", required=True, help="Input CSV: name,country,domain,email_example")
-    ap.add_argument("--out", dest="out", default="waitlist_results.csv", help="Output CSV path")
+    ap.add_argument("--out", dest="out", default="waitlist_results_2.csv", help="Output CSV path")
     ap.add_argument("--timeout", type=int, default=15, help="HTTP timeout seconds")
     ap.add_argument("--min-sleep", type=float, default=0.4, help="Min delay between requests")
     ap.add_argument("--max-sleep", type=float, default=1.2, help="Max delay between requests")
